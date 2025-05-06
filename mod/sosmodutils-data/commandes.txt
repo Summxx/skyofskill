@@ -1,3 +1,5 @@
+EDITED
+
 /mines : Liste des mines
 /minep : Liste des mines Prestige
 /rankup : Monter le niveau
