@@ -1,0 +1,41 @@
+/mines : Liste des mines
+/minep : Liste des mines Prestige
+/rankup : Monter le niveau
+/prestige : Monter le Prestige
+/mp : Monter les Prestige au maximum
+
+/classement : Liste de tout les classements
+
+/shop : Acheter des block
+
+/vip : Boutique Token
+
+/grade : Acheter des grades
+
+/profil : Afficher les differentes options du profil
+
+/msg : Message prives
+
+/r : Repondre au message prives
+
+/pay : Envoyer de l'argent
+
+Iles :
+/is : Menu de l'ile
+/is warp : Gestion des warps de son ile
+/is warp [pseudo] : Acceder a l'ile d'un joueur
+/is invite : Inviter quelqu'un sur son ile
+/is join : Rejoindre une ile
+/is kick : Kick un joueur de son ile
+
+Gang :
+
+/f create : creer un gang
+/f join : Rejoindre un gang
+/f who : Voir les membres d'un gang
+/f kick : Kick un membre de son gang
+
+Hotel de vente :
+
+/ah : Voir l'hotel de vente
+/ah sell : Vendre dans l'hotel de vente

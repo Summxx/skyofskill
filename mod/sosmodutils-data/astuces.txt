@@ -1,0 +1,21 @@
+Transformation Lucky Block / Cristaux :
+Au spawn, directement a gauche, utilisez les PNJ
+pour convertir vos Lucky en MegaLucky et Cristaux en MegaCristaux.
+Ces items se vendent bien plus cher.
+
+Gagner plus d'argent :
+Certaines iles possedent des shops avec achat automatique.
+Utilisez-les pour obtenir un revenu bonus.
+N'hesitez pas a demander dans le chat.
+
+Boost x2 illimite :
+Disponible via le grade Legende (/grade).
+Activez-le ensuite dans /profil.
+
+Afficher un item dans le chat :
+[i] avec un objet en main.
+
+Argent et rentabilite :
+La moissonneuse est utile au debut,
+mais le minage devient plus rentable apres quelques prestiges.
+Miner et vendre les drops est le plus efficace.
