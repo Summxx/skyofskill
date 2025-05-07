@@ -2,136 +2,97 @@
 
 <div align="center">
   <img src="src/assets/logo.png" alt="Logo" width="80" height="80">
-  <img src="https://skyofskill.fr/storage/img/newlog.png" alt="sos" width=140>
-  <a href="https://firedrox.github.io/skyofskill/">
-    <h3 align="center">Boîte à Outils SkyOfSkill 🛠️🎮</h3>
-  </a>
+  <img src="https://skyofskill.fr/storage/img/newlog.png" alt="SkyOfSkill" width="140">
+  <h3 align="center">SOS Mod Utils ⚒️ SkyOfSkill Edition</h3>
 </div>
-
-<br />
-
-<ol>
-  <li>
-    <a href="#features">Features</a>
-    <ul>
-      <li><a href="#minage">Minage</a></li>
-      <li><a href="#caisses">Caisses</a></li>
-      <li><a href="#prestiges">Prestiges</a></li>
-      <!-- <li><a href="#colored-text">Colored Text</a></li> -->
-    </ul>
-  </li>
-  <li>
-    <a href="#special-thanks">Special Thanks</a>
-  </li>
-</ol>
-
-<br />
-
-[![React][React.js]][React-url]
-[![contributors][contributors-shield]][contributors-url]
-[![stars][stars-icon]][stars-url]
-[![Discord][discord-icon]][discord-url]
-
-> [!WARNING]
-> Les informations fournies peuvent être obsolètes et sujettes à modification dans le temps !
-
-> Ce projet est personnel et n'est pas affilié au serveur de `TryToKnowMe_` > _(play.skyofskill.fr)_
-
-## Features
 
 ---
 
-### Minage
+## 🧩 Description
 
-Pour estimer le rendement potentiel de chaque bloc extrait de votre mine, vous pouvez utiliser la formule suivante, qui prend en compte la valeur de la mine, la qualité de votre pioche (exprimée par un coefficient de fortune), ainsi que l'effet multiplicateur d'un éventuel boost :
+**SOS Mod Utils** est un mod utilitaire pour le serveur _SkyOfSkill_, conçu pour améliorer votre expérience de jeu grâce à plusieurs outils pratiques comme :
 
-```js
-const blocValue = mineValue * (picFortune + 1) * multiplyBoost;
+- Un **calculateur de minage** ultra précis
+- Un **calculateur de prestige** détaillé
+- Un **accès rapide aux commandes utiles**
+- Une section **astuces** pour optimiser votre progression
+
+> Ce projet est personnel et non affilié au serveur officiel de TryToKnowMe\_  
+> _Adresse du serveur :_ `play.skyofskill.fr`
+
+---
+
+## 🔧 Fonctionnalités
+
+### 📊 Minage
+
+Estimez vos revenus en fonction de la mine sélectionnée, votre fortune et les boosts actifs.
+
+```java
+blocValue = mineValue * (fortune + 1) * boostMultiplier;
+
+---
+
+## 💰 Affichage
+
+- **$/bloc**
+- **$/30s**
+- **$/15min**
+- **$/heure**
+
+---
+
+## 📈 Prestiges
+
+Calculez le coût total entre deux niveaux de prestige jusqu'au niveau **P125**,
+avec affichage détaillé en version raccourcie et complète.
+
+---
+
+## 📜 Commandes Utiles
+
+Une section scrollable contenant toutes les commandes essentielles du serveur :
+
+- îles
+- gangs
+- économie
+- profil
+- hôtel de vente
+- raccourcis pratiques
+
+---
+
+## 💡 Astuces
+
+Une page dédiée aux conseils pour :
+
+- gagner plus d’argent
+- profiter des boosts
+- utiliser les PNJ efficacement
+- améliorer votre productivité
+
+---
+
+## 🚀 Installation
+
+Ce mod est compatible **Minecraft 1.8.9 Forge**.
+📁 Téléchargez le `.jar` et placez-le dans votre dossier `mods`.
+
+---
+
+## 🙏 Remerciements
+
+Ce mod est largement inspiré du travail de **[FireDroX](https://github.com/FireDroX/skyofskill)**.
+Un grand merci pour sa base technique et sa vision communautaire. 🔥
+
+---
+
+## 📎 Liens Utiles
+
+- 🔗 [Site officiel de SkyOfSkill](https://skyofskill.fr/)
+- 🛠️ [Site original par FireDroX](https://firedrox.github.io/skyofskill/)
+- 📦 [Télécharger SOSModUtils](https://github.com/Summxx/skyofskill/releases)
+
+<p align="right">(<a href="#readme-top">Retour en haut</a>)</p>
+
 ```
-
-En utilisant cette formule, vous pouvez estimer la production toutes les 30 secondes ainsi que toutes les 15 minutes.
-
-<p align="right">(<a href="#readme-top">Retour en haut de la page</a>)</p>
-
----
-
-### Caisses
-
-Affichez tous les éléments du serveur en un coup d'œil ! Des pioches aux armures, en passant par les épées, les arcs et les haches. Et avec une touche de couleur !
-
-<div align="center">
-  <a href="https://firedrox.github.io/skyofskill?page=caisses&box=1&clicked=true&index=11">
-    <img src="src/assets/example/example_item.png" alt="Example" />
-  </a>
-</div>
-<br />
-
-> [!NOTE]
-> Recherchez `type:` suivi d'un type d'objet ou de `all`, pour afficher tous les items du même type en une seule fois
-
-<p align="right">(<a href="#readme-top">Retour en haut de la page</a>)</p>
-
----
-
-### Prestiges
-
-Facilitez le calcul du coût pour passer un ou plusieurs niveaux de prestige, et visualisez l'évolution des prix avec cette fonctionnalité.
-<br />
-
-<div align="center">
-  <a href="https://firedrox.github.io/skyofskill?page=prestiges">
-    <img src="src/assets/example/example_prestiges.png" alt="Prestiges" />
-  </a>
-</div>
-<br />
-
-<p align="right">(<a href="#readme-top">Retour en haut de la page</a>)</p>
-
----
-
-<!-- ### Colored Text
-
-Personnalisez votre texte avec des couleurs et des modifications infinies selon vos préférences !
-
-<div align="center">
-  <img src="src/assets/example/example_colors.png" alt="Colors" />
-</div>
-<br />
-
-<p align="right">(<a href="#readme-top">Retour en haut de la page</a>)</p>
-
---- -->
-
-## Special Thanks
-
-- Pour l'aide concernant les noms des objets des caisses :
-
-  - FireDroX (tout le reste)
-  - OverRhity (20 objets)
-  - yoann71C (19 objets)
-  - hdifox302 (17 objets)
-  - silexspagna (15 objets)
-  - M_ell_o (6 objet)
-  - sarsja (2 objets)
-  - Diictateur_DowN (2 objets)
-  - xifoxEnTMAX (1 objet)
-  - DiaBlo8zZz (1 objet)
-
-- Pour l'aide sur les prix des différents niveaux de prestige :
-
-  - Okamino\_
-  - hdifox302
-  - OverRhity
-
-<p align="right">(<a href="#readme-top">Retour en haut de la page</a>)</p>
-
----
-
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&colorB=555
-[React-url]: https://react.dev/
-[contributors-shield]: https://img.shields.io/github/contributors/firedrox/skyofskill.svg?style=for-the-badge
-[contributors-url]: https://github.com/FireDroX/skyofskill/graphs/contributors
-[stars-icon]: https://img.shields.io/github/stars/firedrox/skyofskill.svg?style=for-the-badge
-[stars-url]: https://github.com/FireDroX/skyofskill/stargazers
-[discord-icon]: https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&colorB=555
-[discord-url]: https://discord.gg/Zmmqd9Tbnn
