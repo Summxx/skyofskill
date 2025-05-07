@@ -1,7 +1,8 @@
 <a name="readme-top"></a>
 
-<div style="background-color: #111; display: inline-block; padding: 10px; border-radius: 10px;">
-  <img src="src/assets/logo.png" alt="SkyOfSkill Logo" width="140">
+<div align="center" style="background-color: #1e1e1e; padding: 20px; border-radius: 10px; display: inline-block;">
+  <img src="src/assets/logo.png" alt="SkyOfSkill" width="140" style="image-rendering: auto;">
+  <h3 style="color: white; margin-top: 10px;">SOS Mod Utils ⚒️ SkyOfSkill Edition</h3>
 </div>
 
 ---
