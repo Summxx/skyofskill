@@ -1,0 +1,111 @@
+{
+  "title": "DE LA NUIT",
+  "items": [
+    {
+      "name": "Epée de la nuit",
+      "defaultName": "§r§b☾§r§f§l Epée de la nuit§r§b ☾",
+      "type": 4,
+      "enchants": [
+        "Tranchant 35",
+        "Solidité 10",
+        "Aura de Feu 10"
+      ]
+    },
+    {
+      "defaultName": "",
+      "type": 4,
+      "enchants": [
+        "Tranchant ??",
+        "Solidité 10",
+        "Aura de Feu 10"
+      ],
+      "name": "???"
+    },
+    {
+      "defaultName": "",
+      "type": 7,
+      "enchants": [
+        "Efficency ???",
+        "Solidité ???r",
+        "Fortune ???"
+      ],
+      "name": "???"
+    },
+    {
+      "defaultName": "",
+      "type": 7,
+      "enchants": [
+        "Efficency ???",
+        "Solidité ???",
+        "Fortune ???"
+      ],
+      "name": "???"
+    },
+    {
+      "defaultName": "",
+      "type": 7,
+      "enchants": [
+        "Efficency ???",
+        "Solidité ???",
+        "Fortune ???"
+      ],
+      "name": "???"
+    },
+    {
+      "defaultName": "",
+      "type": 7,
+      "enchants": [
+        "Efficency ???",
+        "Solidité ???",
+        "Fortune ???"
+      ],
+      "name": "???"
+    },
+    {
+      "name": "Armure Bouillante",
+      "defaultName": "§r§4​♨ §r§f§lArmure Bouillante §r§4​♨",
+      "type": 0,
+      "enchants": [
+        "Protection 34",
+        "Solidité 34"
+      ]
+    },
+    {
+      "name": "Armure Bouillante",
+      "defaultName": "§r§4​♨ §r§f§lArmure Bouillante §r§4​♨",
+      "type": 1,
+      "enchants": [
+        "Protection 34",
+        "Solidité 34"
+      ]
+    },
+    {
+      "name": "Armure Bouillante",
+      "defaultName": "§r§4​♨ §r§f§lArmure Bouillante §r§4​♨",
+      "type": 2,
+      "enchants": [
+        "Protection 34",
+        "Solidité 34"
+      ]
+    },
+    {
+      "name": "Armure Bouillante",
+      "defaultName": "§r§4​♨ §r§f§lArmure Bouillante §r§4​♨",
+      "type": 3,
+      "enchants": [
+        "Protection 34",
+        "Solidité 34"
+      ]
+    },
+    {
+      "defaultName": "",
+      "type": 5,
+      "enchants": [
+        "Tranchant ??",
+        "Solidité 10",
+        "Aura de Feu 10"
+      ],
+      "name": "???"
+    }
+  ]
+}

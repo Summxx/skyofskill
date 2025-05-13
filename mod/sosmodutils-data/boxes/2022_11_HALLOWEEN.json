@@ -1,0 +1,111 @@
+{
+  "title": "HALLOWEEN",
+  "items": [
+    {
+      "name": "Halloween",
+      "defaultName": "§r§4§kt§r§c✟§r§4§kt§r§4§l Ha§r§c§lll§r§4§low§r§c§lee§r§4§ln §r§4§kt§r§c✟§r§4§kt§r§6§l",
+      "type": 4,
+      "enchants": [
+        "Tranchant 42",
+        "Solidité 10",
+        "Aura de Feu 10"
+      ]
+    },
+    {
+      "name": "Clown Tueur",
+      "defaultName": "§2§kt§r§a§kt§r§f§l✟§r§a§kt§r§2§kt§r§2§l Cl§r§a§low§r§2§ln T§r§a§lue§r§2§lur §r§2§kt§r§a§kt§r§f§l✟§r§a§kt§r§2§kt§r",
+      "type": 4,
+      "enchants": [
+        "Tranchant 46",
+        "Solidité 10",
+        "Aura de Feu 10"
+      ]
+    },
+    {
+      "name": "Pioche Zombifiée",
+      "defaultName": "§r§4§l§kt§r§c§kt§r§d§kt§r§4✟§r§d§kt§r§c§kt§r§4§l§kt§r§4§l P§r§c§li§r§d§lo§r§4§lc§r§c§lh§r§d§le §r§4§lZ§r§c§lo§r§d§lm§r§4§lb§r§c§li§r§d§lf§r§4§li§r§c§lé§r§d§le §r§4§l§kt§r§c§kt§r§d§kt§r§4✟§r§d§kt§r§c§kt§r§4§l§kt§r§4§l",
+      "type": 7,
+      "enchants": [
+        "Efficency 150",
+        "Solidité 100",
+        "Fortune 350"
+      ]
+    },
+    {
+      "name": "Pioche Monstrueuse",
+      "defaultName": "§r§5§l§kt§r§d§kt§r§a§kt§r§f​☠§r§a§kt§r§d§kt§r§5§l§kt§r§5§l P§r§d§li§r§a§lo§r§f§lc§r§5§lh§r§d§le §r§a§lM§r§f§lo§r§5§ln§r§d§ls§r§a§lt§r§f§lr§r§5§lu§r§d§le§r§a§lu§r§f§ls§r§5§le §r§5§l§kt§r§d§kt§r§a§kt§r§f​☠§r§a§kt§r§d§kt§r§5§l§kt§r§5§l",
+      "type": 7,
+      "enchants": [
+        "Efficency 150",
+        "Solidité 100",
+        "Fortune 375"
+      ]
+    },
+    {
+      "name": "Faucheuse Maléfique",
+      "defaultName": "§r§f◘§r§b§kt§r§9§kt§r§3✟§r§9§kt§r§b§kt§r§f◘§r§9§l F§r§3§la§r§b§lu§r§9§lc§r§3§lh§r§b§le§r§9§lu§r§3§ls§r§b§le §r§9§lM§r§3§la§r§b§ll§r§9§lé§r§3§lf§r§b§li§r§9§lq§r§3§lu§r§b§le §r§f◘§r§b§kt§r§9§kt§r§3✟§r§9§kt§r§b§kt§r§f◘§r§9§l",
+      "type": 7,
+      "enchants": [
+        "Efficency 150",
+        "Solidité 100",
+        "Fortune 400"
+      ]
+    },
+    {
+      "defaultName": "",
+      "type": 7,
+      "enchants": [
+        "Efficency 300",
+        "Solidité 100",
+        "Fortune 450"
+      ],
+      "name": "Foreuse d'Âmes"
+    },
+    {
+      "name": "Halloween",
+      "defaultName": "§r§4§kt§r§c✟§r§4§kt§r§4§l Ha§r§c§lll§r§4§low§r§c§lee§r§4§ln §r§4§kt§r§c✟§r§4§kt§r§6§l",
+      "type": 0,
+      "enchants": [
+        "Protection 42",
+        "Solidité 42"
+      ]
+    },
+    {
+      "name": "Halloween",
+      "defaultName": "§r§4§kt§r§c✟§r§4§kt§r§4§l Ha§r§c§lll§r§4§low§r§c§lee§r§4§ln §r§4§kt§r§c✟§r§4§kt§r§6§l",
+      "type": 1,
+      "enchants": [
+        "Protection 42",
+        "Solidité 42"
+      ]
+    },
+    {
+      "name": "Halloween",
+      "defaultName": "§r§4§kt§r§c✟§r§4§kt§r§4§l Ha§r§c§lll§r§4§low§r§c§lee§r§4§ln §r§4§kt§r§c✟§r§4§kt§r§6§l",
+      "type": 2,
+      "enchants": [
+        "Protection 42",
+        "Solidité 42"
+      ]
+    },
+    {
+      "name": "Halloween",
+      "defaultName": "§r§4§kt§r§c✟§r§4§kt§r§4§l Ha§r§c§lll§r§4§low§r§c§lee§r§4§ln §r§4§kt§r§c✟§r§4§kt§r§6§l",
+      "type": 3,
+      "enchants": [
+        "Protection 42",
+        "Solidité 42"
+      ]
+    },
+    {
+      "name": "Hachette Clownesque",
+      "defaultName": "§r§b§l§kt§r§4§kt§r§c§kt§r§4✟§r§c§kt§r§4§kt§r§b§l§kt§r§4§l Ha§r§c§lch§r§4§let§r§c§lte §r§4§lC§r§c§llo§r§4§lwn§r§c§les§r§4§lqu§r§c§le §r§b§l§kt§r§4§kt§r§c§kt§r§4✟§r§c§kt§r§4§kt§r§b§l§kt§r§4§l",
+      "type": 5,
+      "enchants": [
+        "Tranchant 47",
+        "Solidité 10",
+        "Aura de Feu 10"
+      ]
+    }
+  ]
+}

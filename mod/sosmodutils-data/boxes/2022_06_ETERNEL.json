@@ -1,0 +1,111 @@
+{
+  "title": "ETERNEL",
+  "items": [
+    {
+      "defaultName": "",
+      "type": 4,
+      "enchants": [
+        "Tranchant ??",
+        "Solidité 10",
+        "Aura de Feu 10"
+      ],
+      "name": "???"
+    },
+    {
+      "defaultName": "",
+      "type": 4,
+      "enchants": [
+        "Tranchant ??",
+        "Solidité 10",
+        "Aura de Feu 10"
+      ],
+      "name": "???"
+    },
+    {
+      "name": "ETERNEL",
+      "defaultName": "§r§2✻ §r§a§lETERNEL §r§2✻",
+      "type": 7,
+      "enchants": [
+        "Efficency 100",
+        "Solidité 50",
+        "Fortune 100"
+      ]
+    },
+    {
+      "defaultName": "",
+      "type": 7,
+      "enchants": [
+        "Efficency ???",
+        "Solidité ???",
+        "Fortune ???"
+      ],
+      "name": "???"
+    },
+    {
+      "defaultName": "",
+      "type": 7,
+      "enchants": [
+        "Efficency ???",
+        "Solidité ???",
+        "Fortune ???"
+      ],
+      "name": "???"
+    },
+    {
+      "defaultName": "",
+      "type": 7,
+      "enchants": [
+        "Efficency ???",
+        "Solidité ???",
+        "Fortune ???"
+      ],
+      "name": "???"
+    },
+    {
+      "name": "ETERNEL",
+      "defaultName": "§r§2✻ §r§a§lETERNEL §r§2✻",
+      "type": 0,
+      "enchants": [
+        "Protection 32",
+        "Solidité 32"
+      ]
+    },
+    {
+      "name": "ETERNEL",
+      "defaultName": "§r§2✻ §r§a§lETERNEL §r§2✻",
+      "type": 1,
+      "enchants": [
+        "Protection 32",
+        "Solidité 32"
+      ]
+    },
+    {
+      "name": "ETERNEL",
+      "defaultName": "§r§2✻ §r§a§lETERNEL §r§2✻",
+      "type": 2,
+      "enchants": [
+        "Protection 32",
+        "Solidité 32"
+      ]
+    },
+    {
+      "name": "ETERNEL",
+      "defaultName": "§r§2✻ §r§a§lETERNEL §r§2✻",
+      "type": 3,
+      "enchants": [
+        "Protection 32",
+        "Solidité 32"
+      ]
+    },
+    {
+      "defaultName": "",
+      "type": 5,
+      "enchants": [
+        "Tranchant ??",
+        "Solidité 10",
+        "Aura de Feu 10"
+      ],
+      "name": "???"
+    }
+  ]
+}

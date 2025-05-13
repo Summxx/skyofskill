@@ -1,0 +1,113 @@
+{
+  "title": "SAINT-VALENTIN",
+  "items": [
+    {
+      "name": "Sabre en Chocolat",
+      "defaultName": "§r§c§kt§r§4​❤§r§c§kt§r§4§l §r§4§lSa§r§c§lbr§r§4§le e§r§c§ln C§r§4§lho§r§c§lco§r§4§lla§r§c§lt §r§c§kt§r§4​❤§r§c§kt§r§4§l",
+      "type": 4,
+      "enchants": [
+        "Tranchant 48",
+        "Solidité 10",
+        "Aura de Feu 10"
+      ]
+    },
+    {
+      "name": "Lame de Coeur",
+      "defaultName": "§r§5§l§kt§r§f§ktt§r§d​❤§r§f§ktt§r§5§l§kt§r§5§l §r§5§lL§r§d§la§r§5§lm§r§d§le §r§5§ld§r§d§le §r§a§lC§r§b§lo§r§c§le§r§d§lu§r§e§lr §r§5§l§kt§r§f§ktt§r§d​❤§r§f§ktt§r§5§l§kt§r§5§l",
+      "type": 4,
+      "enchants": [
+        "Tranchant 53",
+        "Solidité 10",
+        "Aura de Feu 10"
+      ]
+    },
+    {
+      "name": "Pioche de Valentine",
+      "type": 7,
+      "defaultName": "§r§9§l§ki§r§b§kt§r§f​❤§r§b§kt§r§9§l§kt§r §r§9§l§nP§r§b§l§nioche§r §r§b§l§nde§r §r§9§l§nV§r§b§l§nalentine§r§b §r§9§l§ki§r§b§kt§r§f​❤§r§b§kt§r§9§l§kt§r§9§l",
+      "enchants": [
+        "Efficency 200",
+        "Solidité 200",
+        "Fortune 400"
+      ]
+    },
+    {
+      "name": "Masticateur de Lovés",
+      "type": 7,
+      "defaultName": "§r§6§l§kt§r§6§kt§r§e§kt§r§a​❤§r§e§kt§r§6§kt§r§e§l§kt§r§6§l Ma§r§e§lst§r§6§lic§r§e§lat§r§6§leu§r§e§lr d§r§6§le L§r§e§lov§r§6§lés §r§6§l§kt§r§6§kt§r§e§kt§r§a​❤§r§e§kt§r§6§kt§r§e§l§kt§r§6§l",
+      "enchants": [
+        "Efficency 300",
+        "Solidité 300",
+        "Fortune 450"
+      ]
+    },
+    {
+      "name": "Tronçonneuse d'Amour",
+      "defaultName": "§r§2§kt§r§a§kt§r§f❤§r§a§kt§r§2§kt§r §r§2§l §nT§r§a§l§nronconneuse§r §r§a §l§nd'§r§2§l§nA§r§a§l§nmour§r§r §2 §kt§r§a§kt§r§f❤§r§a§kt§r§2§kt§r§2§l",
+      "type": 7,
+      "enchants": [
+        "Efficency 550",
+        "Solidité 550",
+        "Fortune 550"
+      ],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "Foreuse à Lovés",
+      "defaultName": "§c§kt§r§f§kt§r§c§kt§r§4§l​❤§r§c§kt§r§f§kt§r§c§kt§r§4§l F§r§c§lo§r§4§lr§r§c§le§r§4§lu§r§c§ls§r§4§le §r§c§là §r§4§lL§r§c§lo§r§4§lv§r§c§lé§r§4§ls §r§c§kt§r§f§kt§r§c§kt§r§4§l​❤§r§c§kt§r§f§kt§r§c§kt§r",
+      "type": 7,
+      "enchants": [
+        "Efficency 600",
+        "Solidité 600",
+        "Fortune 600"
+      ]
+    },
+    {
+      "name": "Costume de Mariage",
+      "defaultName": "§r§c§kt§r§4​❤§r§c§kt§r§4§l C§r§c§lo§r§4§ls§r§c§lt§r§4§lu§r§c§lm§r§4§le §r§c§ld§r§4§le §r§c§lM§r§4§la§r§c§lr§r§4§li§r§c§la§r§4§lg§r§c§le §r§c§kt§r§4​❤§r§c§kt§r§4§l",
+      "type": 0,
+      "enchants": [
+        "Protection 48",
+        "Solidité 48"
+      ]
+    },
+    {
+      "name": "Costume de Mariage",
+      "defaultName": "§r§c§kt§r§4​❤§r§c§kt§r§4§l C§r§c§lo§r§4§ls§r§c§lt§r§4§lu§r§c§lm§r§4§le §r§c§ld§r§4§le §r§c§lM§r§4§la§r§c§lr§r§4§li§r§c§la§r§4§lg§r§c§le §r§c§kt§r§4​❤§r§c§kt§r§4§l",
+      "type": 1,
+      "enchants": [
+        "Protection 48",
+        "Solidité 48"
+      ]
+    },
+    {
+      "name": "Costume de Mariage",
+      "defaultName": "§r§c§kt§r§4​❤§r§c§kt§r§4§l C§r§c§lo§r§4§ls§r§c§lt§r§4§lu§r§c§lm§r§4§le §r§c§ld§r§4§le §r§c§lM§r§4§la§r§c§lr§r§4§li§r§c§la§r§4§lg§r§c§le §r§c§kt§r§4​❤§r§c§kt§r§4§l",
+      "type": 2,
+      "enchants": [
+        "Protection 48",
+        "Solidité 48"
+      ]
+    },
+    {
+      "name": "Costume de Mariage",
+      "defaultName": "§r§c§kt§r§4​❤§r§c§kt§r§4§l C§r§c§lo§r§4§ls§r§c§lt§r§4§lu§r§c§lm§r§4§le §r§c§ld§r§4§le §r§c§lM§r§4§la§r§c§lr§r§4§li§r§c§la§r§4§lg§r§c§le §r§c§kt§r§4​❤§r§c§kt§r§4§l",
+      "type": 3,
+      "enchants": [
+        "Protection 48",
+        "Solidité 48"
+      ]
+    },
+    {
+      "name": "Coeur Brisé",
+      "defaultName": "§r§r§r§4§l§kt§r§r§r§c§kt§r§r§r§f§kt§r§r§r§8​❤§r§r§r§f§kt§r§r§r§c§kt§r§r§r§4§l§kt§r§r§r§4§l C§r§r§r§c§lo§r§r§r§4§le§r§r§r§c§lu§r§r§r§4§lr§r§r§r§8§l B§r§r§r§7§lr§r§r§r§8§li§r§r§r§7§ls§r§r§l§r§8é §r§r§r§4§l§kt§r§r§r§c§kt§r§r§r§f§kt§r§r§r§8​❤§r§r§r§f§kt§r§r§r§c§kt§r§r§r§4§l§kt§r§r§r§4§l",
+      "type": 5,
+      "enchants": [
+        "Tranchant 53",
+        "Solidité 10",
+        "Aura de Feu 10"
+      ],
+      "dontLeaveOnDeath": false
+    }
+  ]
+}

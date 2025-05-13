@@ -1,0 +1,143 @@
+{
+  "title": "NOEL",
+  "items": [
+    {
+      "name": "Arc de Neige",
+      "defaultName": "§r§f§ki§r§b§ki§r§f⁂§r§b​❄§r§f⁂§r§b§ki§r§f§ki§r§8§l §r§b§lA§r§f§lr§r§b§lc §r§f§ld§r§b§le§r§f§l N§r§b§le§r§f§li§r§b§lg§r§f§le §r§f§ki§r§b§ki§r§f⁂§r§b​❄§r§f⁂§r§b§ki§r§f§ki",
+      "type": 6,
+      "enchants": [
+        "Punch III",
+        "Solidité 10",
+        "Infinity I"
+      ]
+    },
+    {
+      "name": "Moto du Lutin",
+      "defaultName": "§r§a§ki§r§f✦§r§a​☃§r§f✦§r§a§ki§r§a §r§a§lM§r§f§lo§r§a§lt§r§f§lo§r§a§l d§r§f§lu§r§a§l L§r§f§lu§r§a§lt§r§f§li§r§a§ln §r§a§ki§r§f✦§r§a​☃§r§f✦§r§a§ki",
+      "type": 6,
+      "enchants": [
+        "Punch IV",
+        "Solidité 10",
+        "Infinity I"
+      ]
+    },
+    {
+      "defaultName": "",
+      "type": 6,
+      "enchants": [
+        "Punch IV",
+        "Solidité 10",
+        "Infinity I"
+      ],
+      "dontLeaveOnDeath": true,
+      "name": "Fusée de Noël"
+    },
+    {
+      "defaultName": "",
+      "type": 6,
+      "enchants": [
+        "Punch V",
+        "Solidité 10",
+        "Infinity I"
+      ],
+      "dontLeaveOnDeath": true,
+      "name": "Traineau Père Noël"
+    },
+    {
+      "name": "Sabre de Neige",
+      "defaultName": "§r§f§ki§r§b§ki§r§f⁂§r§b​❄§r§f⁂§r§b§ki§r§f§ki§r§8§l §r§b§lS§r§f§la§r§b§lb§r§f§lr§r§b§le§r§f§l d§r§b§le§r§f§l N§r§b§le§r§f§li§r§b§lg§r§f§le §r§f§ki§r§b§ki§r§f⁂§r§b​❄§r§f⁂§r§b§ki§r§f§ki",
+      "type": 4,
+      "enchants": [
+        "Tranchant 71",
+        "Solidité 10",
+        "Aura de Feu 10"
+      ]
+    },
+    {
+      "name": "Sabre Père Noël",
+      "defaultName": "§r§4§ki§r§f§ki§r§c⁑§r§4​☃§r§c⁑§r§f§ki§r§4§ki§r§4§l §r§4§lS§r§f§la§r§4§lb§r§f§lr§r§4§le§r§f§l P§r§4§lè§r§f§lr§r§4§le§r§f§l N§r§4§lo§r§f§lë§r§4§ll §r§4§ki§r§f§ki§r§c⁑§r§4​☃§r§c⁑§r§f§ki§r§4§ki§r§4§l",
+      "type": 4,
+      "enchants": [
+        "Tranchant 80",
+        "Solidité 10",
+        "Aura de Feu 10"
+      ]
+    },
+    {
+      "name": "Pioche de Neige",
+      "defaultName": "§r§f§ki§r§b§ki§r§f⁂§r§b​❄§r§f⁂§r§b§ki§r§f§ki§r§8§l §r§b§lP§r§f§li§r§b§lo§r§f§lc§r§b§lh§r§f§le§r§b§l d§r§f§le§r§b§l N§r§f§le§r§b§li§r§f§lg§r§b§le §r§f§ki§r§b§ki§r§f⁂§r§b​❄§r§f⁂§r§b§ki§r§f§ki",
+      "type": 7,
+      "enchants": [
+        "Efficency 1250",
+        "Solidité 1250",
+        "Fortune 1250"
+      ]
+    },
+    {
+      "name": "Pioche Mère Noël",
+      "defaultName": "§r§d§ki§r§f§ki§r§d​❤§r§f§ki§r§d§ki§r§8§l §r§d§lP§r§f§li§r§d§lo§r§f§lc§r§d§lh§r§f§le§r§d§l M§r§f§lè§r§d§lr§r§f§le§r§d§l N§r§f§lo§r§d§lë§r§f§ll §r§d§ki§r§f§ki§r§d​❤§r§f§ki§r§d§ki",
+      "type": 7,
+      "enchants": [
+        "Efficency 1500",
+        "Solidité 1500",
+        "Fortune 1500"
+      ]
+    },
+    {
+      "defaultName": "",
+      "type": 7,
+      "enchants": [
+        "Efficency 1650",
+        "Solidité 1650",
+        "Fortune 1650"
+      ],
+      "name": "Foreuse Père Noël"
+    },
+    {
+      "name": "Armure de Neige",
+      "defaultName": "§r§f§ki§r§b§ki§r§f⁂§r§b​❄§r§f⁂§r§b§ki§r§f§ki§r§8§l §r§b§lA§r§f§lr§r§b§lm§r§f§lu§r§b§lr§r§f§le §r§f§ld§r§b§le§r§f§l N§r§b§le§r§f§li§r§b§lg§r§f§le §r§f§ki§r§b§ki§r§f⁂§r§b​❄§r§f⁂§r§b§ki§r§f§ki",
+      "type": 0,
+      "enchants": [
+        "Protection 71",
+        "Solidité 71"
+      ]
+    },
+    {
+      "name": "Armure de Neige",
+      "defaultName": "§r§f§ki§r§b§ki§r§f⁂§r§b​❄§r§f⁂§r§b§ki§r§f§ki§r§8§l §r§b§lA§r§f§lr§r§b§lm§r§f§lu§r§b§lr§r§f§le §r§f§ld§r§b§le§r§f§l N§r§b§le§r§f§li§r§b§lg§r§f§le §r§f§ki§r§b§ki§r§f⁂§r§b​❄§r§f⁂§r§b§ki§r§f§ki",
+      "type": 1,
+      "enchants": [
+        "Protection 71",
+        "Solidité 71"
+      ]
+    },
+    {
+      "name": "Armure de Neige",
+      "defaultName": "§r§f§ki§r§b§ki§r§f⁂§r§b​❄§r§f⁂§r§b§ki§r§f§ki§r§8§l §r§b§lA§r§f§lr§r§b§lm§r§f§lu§r§b§lr§r§f§le §r§f§ld§r§b§le§r§f§l N§r§b§le§r§f§li§r§b§lg§r§f§le §r§f§ki§r§b§ki§r§f⁂§r§b​❄§r§f⁂§r§b§ki§r§f§ki",
+      "type": 2,
+      "enchants": [
+        "Protection 71",
+        "Solidité 71"
+      ]
+    },
+    {
+      "name": "Armure de Neige",
+      "defaultName": "§r§f§ki§r§b§ki§r§f⁂§r§b​❄§r§f⁂§r§b§ki§r§f§ki§r§8§l §r§b§lA§r§f§lr§r§b§lm§r§f§lu§r§b§lr§r§f§le §r§f§ld§r§b§le§r§f§l N§r§b§le§r§f§li§r§b§lg§r§f§le §r§f§ki§r§b§ki§r§f⁂§r§b​❄§r§f⁂§r§b§ki§r§f§ki",
+      "type": 3,
+      "enchants": [
+        "Protection 71",
+        "Solidité 71"
+      ]
+    },
+    {
+      "name": "Katana Cadeau",
+      "defaultName": "§r§e§ki§r§f§ki§r§e⁂§r§f​☃§r§e⁂§r§f§ki§r§e§ki§r§8§l §r§e§lK§r§f§la§r§e§lt§r§f§la§r§e§ln§r§f§la §r§e§lC§r§f§la§r§e§ld§r§f§le§r§e§la§r§f§lu §r§e§ki§r§f§ki§r§e⁂§r§f​☃§r§e⁂§r§f§ki§r§e§ki",
+      "type": 5,
+      "enchants": [
+        "Tranchant 77",
+        "Solidité 10",
+        "Aura de Feu 10"
+      ]
+    }
+  ]
+}

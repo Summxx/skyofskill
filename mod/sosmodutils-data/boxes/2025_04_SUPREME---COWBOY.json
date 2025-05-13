@@ -1,0 +1,180 @@
+{
+  "title": "SUPREME - COWBOY",
+  "items": [
+    {
+      "name": "Equipement Farwest",
+      "defaultName": "§r§e§ki§r§7§kt§r§e⏏§r§6⎋§r§e⏏§r§7§kt§r§e§ki§r§e§l Eq§r§6§lu§r§7§li§r§e§lpe§r§6§lm§r§e§len§r§6§lt§r§7§l F§r§e§lar§r§6§lw§r§7§le§r§e§lst §r§e§ki§r§7§kt§r§e⏏§r§6⎋§r§e⏏§r§7§kt§r§e§ki",
+      "type": 6,
+      "enchants": [
+        "Punch III",
+        "Solidité 10",
+        "Infinity I"
+      ],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "Equipement Farwest",
+      "defaultName": "§r§e§ki§r§7§kt§r§e⏏§r§6⎋§r§e⏏§r§7§kt§r§e§ki§r§e§l Eq§r§6§lu§r§7§li§r§e§lpe§r§6§lm§r§e§len§r§6§lt§r§7§l F§r§e§lar§r§6§lw§r§7§le§r§e§lst §r§e§ki§r§7§kt§r§e⏏§r§6⎋§r§e⏏§r§7§kt§r§e§ki",
+      "type": 0,
+      "enchants": [
+        "Protection 98",
+        "Solidité 98"
+      ],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "Equipement Farwest",
+      "defaultName": "§r§e§ki§r§7§kt§r§e⏏§r§6⎋§r§e⏏§r§7§kt§r§e§ki§r§e§l Eq§r§6§lu§r§7§li§r§e§lpe§r§6§lm§r§e§len§r§6§lt§r§7§l F§r§e§lar§r§6§lw§r§7§le§r§e§lst §r§e§ki§r§7§kt§r§e⏏§r§6⎋§r§e⏏§r§7§kt§r§e§ki",
+      "type": 1,
+      "enchants": [
+        "Protection 98",
+        "Solidité 98"
+      ],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "Equipement Farwest",
+      "defaultName": "§r§e§ki§r§7§kt§r§e⏏§r§6⎋§r§e⏏§r§7§kt§r§e§ki§r§e§l Eq§r§6§lu§r§7§li§r§e§lpe§r§6§lm§r§e§len§r§6§lt§r§7§l F§r§e§lar§r§6§lw§r§7§le§r§e§lst §r§e§ki§r§7§kt§r§e⏏§r§6⎋§r§e⏏§r§7§kt§r§e§ki",
+      "type": 2,
+      "enchants": [
+        "Protection 98",
+        "Solidité 98"
+      ],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "Equipement Farwest",
+      "defaultName": "§r§e§ki§r§7§kt§r§e⏏§r§6⎋§r§e⏏§r§7§kt§r§e§ki§r§e§l Eq§r§6§lu§r§7§li§r§e§lpe§r§6§lm§r§e§len§r§6§lt§r§7§l F§r§e§lar§r§6§lw§r§7§le§r§e§lst §r§e§ki§r§7§kt§r§e⏏§r§6⎋§r§e⏏§r§7§kt§r§e§ki",
+      "type": 3,
+      "enchants": [
+        "Protection 98",
+        "Solidité 98"
+      ],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "Equipement Farwest",
+      "defaultName": "§r§e§ki§r§7§kt§r§e⏏§r§6⎋§r§e⏏§r§7§kt§r§e§ki§r§e§l Eq§r§6§lu§r§7§li§r§e§lpe§r§6§lm§r§e§len§r§6§lt§r§7§l F§r§e§lar§r§6§lw§r§7§le§r§e§lst §r§e§ki§r§7§kt§r§e⏏§r§6⎋§r§e⏏§r§7§kt§r§e§ki",
+      "type": 4,
+      "enchants": [
+        "Tranchant 97",
+        "Solidité 10",
+        "Aura de Feu 10"
+      ],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "Foreuse du Shérif",
+      "defaultName": "§r§7§kii§r§6ᔐ§r§e✠§r§6ᔐ§r§7§kii§r§e §l Fo§r§7§lr§r§6§le§r§e§lus§r§7§le§r§e§l du§r§7§l S§r§6§lh§r§e§lér§r§7§li§r§6§lf §r§7§kii§r§6ᔐ§r§e✠§r§6ᔐ§r§7§kii",
+      "type": 7,
+      "enchants": [
+        "Efficency 4500",
+        "Solidité 4500",
+        "Fortune 4500"
+      ],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "Lame du Crépuscule",
+      "defaultName": "§r§f§ki§r§d※§r§5♖§r§d※§r§f§ki§r§5 §l La§r§d§lm§r§f§le§r§5§l du §r§d§lC§r§f§lr§r§5§lép§r§d§lu§r§f§ls§r§5§lcu§r§d§ll§r§f§le §r§f§ki§r§d※§r§5♖§r§d※§r§f§ki",
+      "type": 5,
+      "enchants": [
+        "Tranchant 104",
+        "Solidité 10",
+        "Aura de Feu 10"
+      ],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "Pistolet du Bandit",
+      "defaultName": "§r§4§ki§r§7§ki§r§c§l§kt§r§4⬆§r§c☣§r§4⬆§r§c§kt§r§7§ki§r§4§ki§r§c§l Pi§r§7§ls§r§4§lt§r§c§lol§r§7§le§r§4§lt§r§c§l du§r§7§l B§r§4§la§r§c§lnd§r§7§li§r§4§lt §r§4§ki§r§7§ki§r§c§l§kt§r§4⬆§r§c☣§r§4⬆§r§c§kt§r§7§ki§r§4§ki",
+      "type": 6,
+      "enchants": [
+        "Punch IV",
+        "Solidité 10",
+        "Infinity I"
+      ],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "Pelle à Trésor",
+      "defaultName": "§r§d§ki§r§8§l§ki§r§d!§r§5⛃§r§d!§r§8§l§ki§r§d§ki§r§5 §l Pe§r§d§ll§r§8§ll§r§5§le à§r§d§l T§r§8§lr§r§5§lés§r§d§lo§r§8§lr §r§d§ki§r§8§l§ki§r§d!§r§5⛃§r§d!§r§8§l§ki§r§d§ki",
+      "type": 7,
+      "enchants": [
+        "Efficency 4750",
+        "Solidité 4750",
+        "Fortune 4750"
+      ],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "Tomahawk du Shérif",
+      "defaultName": "§r§7§kii§r§6ᔐ§r§e✠§r§6ᔐ§r§7§kii§r§e §l To§r§7§lm§r§6§la§r§e§lha§r§7§lw§r§6§lk§r§e§l du§r§7§l S§r§6§lh§r§e§lér§r§7§li§r§6§lf §r§7§kii§r§6ᔐ§r§e✠§r§6ᔐ§r§7§kii",
+      "type": 4,
+      "enchants": [
+        "Tranchant 108",
+        "Solidité 10",
+        "Aura de Feu 10"
+      ],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "Foreuse Détectrice",
+      "defaultName": "§r§a§ki§r§2§kt§r§8▏§r§a♱§r§8▏§r§2§kt§r§a§ki§r§8§l Fo§r§a§lr§r§2§le§r§8§lus§r§a§le§r§2§l D§r§8§lét§r§a§le§r§2§lc§r§8§lt§r§a§lr§r§2§li§r§8§lce §r§a§ki§r§2§kt§r§8▏§r§a♱§r§8▏§r§2§kt§r§a§ki",
+      "type": 7,
+      "enchants": [
+        "Efficency 5000",
+        "Solidité 5000",
+        "Fortune 5000"
+      ],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "Colt du Crépuscule",
+      "defaultName": "§r§f§ki§r§d※§r§5♖§r§d※§r§f§ki§r§5 §l Co§r§d§ll§r§f§lt§r§5§l du §r§d§lC§r§f§lr§r§5§lép§r§d§lu§r§f§ls§r§5§lcu§r§d§ll§r§f§le §r§f§ki§r§d※§r§5♖§r§d※§r§f§ki",
+      "type": 6,
+      "enchants": [
+        "Punch VI",
+        "Solidité 10",
+        "Infinity I"
+      ],
+      "dontLeaveOnDeath": true
+    },
+    {
+      "name": "Dynamite du Bandit",
+      "defaultName": "§r§4§ki§r§7§ki§r§c§l§kt§r§4⬆§r§c☣§r§4⬆§r§c§kt§r§7§ki§r§4§ki§r§c§l Dy§r§7§ln§r§4§la§r§c§lmi§r§7§lt§r§4§le §r§c§ldu §r§7§lB§r§4§la§r§c§lnd§r§7§li§r§4§lt §r§4§ki§r§7§ki§r§c§l§kt§r§4⬆§r§c☣§r§4⬆§r§c§kt§r§7§ki§r§4§ki",
+      "type": 7,
+      "enchants": [
+        "Efficency 5250",
+        "Solidité 5250",
+        "Fortune 5250"
+      ],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "Wubcgester du Déserteur",
+      "defaultName": "§r§6§kii§r§e⦚§r§6◬§r§e⦚§r§6§kii§r§e §l Wi§r§7§ln§r§6§lc§r§e§lhe§r§7§ls§r§6§lt§r§e§ler§r§7§l d§r§6§lu §r§e§lDé§r§6§ls§r§7§le§r§e§lrt§r§7§le§r§6§lu§r§e§lr §r§6§kii§r§e⦚§r§6◬§r§e⦚§r§6§kii",
+      "type": 6,
+      "enchants": [
+        "Punch VIII",
+        "Solidité 10",
+        "Infinity I"
+      ],
+      "dontLeaveOnDeath": true
+    },
+    {
+      "name": "Dynamite du Bandit",
+      "defaultName": "§r§4§ki§r§8§ki§r§c§l§kt§r§4⬆§r§c☣§r§4⬆§r§c§kt§r§8§ki§r§4§ki§r§c§l Dy§r§8§ln§r§4§la§r§c§lmi§r§8§lt§r§4§le §r§c§ldu §r§8§lB§r§4§la§r§c§lnd§r§8§li§r§4§lt §r§4§ki§r§8§ki§r§c§l§kt§r§4⬆§r§c☣§r§4⬆§r§c§kt§r§8§ki§r§4§ki",
+      "type": 7,
+      "enchants": [
+        "Efficency 5500",
+        "Solidité 5500",
+        "Fortune 5500",
+        "",
+        "",
+        "▶ Achète 30,000 Tokens"
+      ],
+      "dontLeaveOnDeath": false
+    }
+  ]
+}

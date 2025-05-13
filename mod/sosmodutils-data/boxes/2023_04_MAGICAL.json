@@ -1,0 +1,122 @@
+{
+  "title": "MAGICAL",
+  "items": [
+    {
+      "defaultName": "",
+      "type": 6,
+      "enchants": [
+        "Punch III",
+        "Solidité 10",
+        "Infinity I"
+      ],
+      "name": "???"
+    },
+    {
+      "name": "Wingardium Leviosa",
+      "defaultName": "§r§d§kt§r§f§kt§r§5✯§r§f§kt§r§d§kt§r§5§l W§r§f§li§r§d§ln§r§f§lg§r§5§la§r§f§lr§r§d§ld§r§f§li§r§5§lu§r§f§lm§r§d§l L§r§f§le§r§5§lv§r§f§li§r§d§lo§r§f§ls§r§5§la §r§d§kt§r§f§kt§r§5✯§r§f§kt§r§d§kt§r§5",
+      "type": 6,
+      "enchants": [
+        "Punch IV",
+        "Solidité 10",
+        "Infinity I"
+      ]
+    },
+    {
+      "name": "Magical Sword",
+      "defaultName": "§r§d§kt§r§f✠§r§d§kt§r§6§l §r§5§lM§r§d§la§r§f§lg§r§5§li§r§d§lc§r§f§la§r§5§ll §r§d§lS§r§f§lw§r§5§lo§r§d§lr§r§f§ld §r§d§kt§r§f✠§r§d§kt§r§6§l",
+      "type": 4,
+      "enchants": [
+        "Tranchant 52",
+        "Solidité 10",
+        "Aura de Feu 10"
+      ]
+    },
+    {
+      "name": "Lame à Magie Noire",
+      "defaultName": "§r§7§kt§r§f§kt§r§8✚§r§f§kt§r§7§kt§r§8§l §r§8§lL§r§7§la§r§f§lm§r§8§le§r§7§l à §r§f§lM§r§8§la§r§7§lg§r§f§li§r§8§le §r§7§lN§r§f§lo§r§8§li§r§7§lr§r§f§le §r§7§kt§r§f§kt§r§8✚§r§f§kt§r§7§kt§r§8§l",
+      "type": 4,
+      "enchants": [
+        "Tranchant 60",
+        "Solidité 10",
+        "Aura de Feu 10"
+      ]
+    },
+    {
+      "name": "Perceuse Surnaturelle",
+      "defaultName": "§r§f§kt§r§b✡§r§f§kt§r§6§l §r§b§lP§r§f§le§r§b§lr§r§f§lc§r§b§le§r§f§lu§r§b§ls§r§f§le §r§b§lS§r§f§lu§r§b§lr§r§f§ln§r§b§la§r§f§lt§r§b§lu§r§f§lr§r§b§le§r§f§ll§r§b§ll§r§f§le §r§f§kt§r§b✡§r§f§kt§r§6§l",
+      "type": 7,
+      "enchants": [
+        "Efficency 600",
+        "Solidité 600",
+        "Fortune 600"
+      ],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "Foreuse Sinistre",
+      "defaultName": "§r§7§kt§r§fϟ§r§8☣§r§fϟ§r§7§kt§r§8§l F§r§7§lo§r§f§lr§r§8§le§r§7§lu§r§f§ls§r§8§le§r§7§l S§r§f§li§r§8§ln§r§7§li§r§f§ls§r§8§lt§r§7§lr§r§f§le §r§7§kt§r§fϟ§r§8☣§r§fϟ§r§7§kt§r§8§l",
+      "type": 7,
+      "enchants": [
+        "Efficency 700",
+        "Solidité 700",
+        "Fortune 700"
+      ]
+    },
+    {
+      "name": "SuperMegaPioche",
+      "defaultName": "§r§e§kt§r§bϟ§r§a✧§r§bϟ§r§e§kt§r§e§l §r§a§lS§r§b§lu§r§c§lp§r§d§le§r§e§lr§r§f§lM§r§a§le§r§b§lg§r§c§la§r§d§lP§r§e§li§r§f§lo§r§a§lc§r§b§lh§r§c§le §r§e§kt§r§bϟ§r§a✧§r§bϟ§r§e§kt§r§e§l",
+      "type": 7,
+      "enchants": [
+        "Efficency 750",
+        "Solidité 750",
+        "Fortune 750"
+      ]
+    },
+    {
+      "name": "Magical",
+      "defaultName": "§r§d§kt§r§f✠§r§d§kt§r§6§l §r§5§lM§r§d§la§r§f§lg§r§5§li§r§d§lc§r§f§la§r§5§ll §r§d§kt§r§f✠§r§d§kt§r§6§l",
+      "type": 0,
+      "enchants": [
+        "Protection 53",
+        "Solidité 53"
+      ]
+    },
+    {
+      "name": "Magical",
+      "defaultName": "§r§d§kt§r§f✠§r§d§kt§r§6§l §r§5§lM§r§d§la§r§f§lg§r§5§li§r§d§lc§r§f§la§r§5§ll §r§d§kt§r§f✠§r§d§kt§r§6§l",
+      "type": 1,
+      "enchants": [
+        "Protection 53",
+        "Solidité 53"
+      ]
+    },
+    {
+      "name": "Magical",
+      "defaultName": "§r§d§kt§r§f✠§r§d§kt§r§6§l §r§5§lM§r§d§la§r§f§lg§r§5§li§r§d§lc§r§f§la§r§5§ll §r§d§kt§r§f✠§r§d§kt§r§6§l",
+      "type": 2,
+      "enchants": [
+        "Protection 53",
+        "Solidité 53"
+      ]
+    },
+    {
+      "name": "Magical",
+      "defaultName": "§r§d§kt§r§f✠§r§d§kt§r§6§l §r§5§lM§r§d§la§r§f§lg§r§5§li§r§d§lc§r§f§la§r§5§ll §r§d§kt§r§f✠§r§d§kt§r§6§l",
+      "type": 3,
+      "enchants": [
+        "Protection 53",
+        "Solidité 53"
+      ]
+    },
+    {
+      "name": "Poisson Magique",
+      "defaultName": "§r§9§kt§r§b§kt§r§1​♨§r§b§kt§r§9§kt§r§1§l P§r§9§lo§r§b§li§r§f§ls§r§1§ls§r§9§lo§r§b§ln §r§f§lM§r§1§la§r§9§lg§r§b§li§r§f§lq§r§1§lu§r§9§le §r§9§kt§r§b§kt§r§1​♨§r§b§kt§r§9§kt§r§1§l",
+      "type": 5,
+      "enchants": [
+        "Tranchant 58",
+        "Solidité 10",
+        "Aura de Feu 10"
+      ]
+    }
+  ]
+}
