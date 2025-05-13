@@ -1,84 +1,84 @@
 <a name="readme-top"></a>
 
-<div align="center" style="background-color: #1e1e1e; padding: 20px; border-radius: 10px; display: inline-block;">
-  <img src="src/assets/logo.png" alt="SkyOfSkill" width="140" style="image-rendering: auto;">
-  <h3 style="color: white; margin-top: 10px;">SOS Mod Utils ⚒️ SkyOfSkill Edition</h3>
+<div align="center">
+  <img src="src/assets/logo.png" alt="SkyOfSkill" width="140">
+  <h3>SOS Mod Utils ⚒️ SkyOfSkill Edition</h3>
 </div>
 
 ---
 
-## 🧩 Description
+## 🧩 Présentation
 
-**SOS Mod Utils** est un mod utilitaire pour le serveur _SkyOfSkill_, conçu pour améliorer votre expérience de jeu grâce à plusieurs outils pratiques comme :
+**SOS Mod Utils** est un mod utilitaire pour le serveur **SkyOfSkill**, pensé pour améliorer ton confort de jeu avec une interface claire et intuitive.
 
-- Un **calculateur de minage** ultra précis
-- Un **calculateur de prestige** détaillé
-- Un **accès rapide aux commandes utiles**
-- Une section **astuces** pour optimiser votre progression
-
-> Ce projet est personnel et non affilié au serveur officiel de TryToKnowMe\_  
-> _Adresse du serveur :_ `play.skyofskill.fr`
+> Ce projet est personnel et non affilié au serveur officiel TryToKnowMe\_  
+> _IP du serveur :_ `play.skyofskill.fr`
 
 ---
 
-## 🔧 Fonctionnalités
+## 🚀 Fonctionnalités Principales
 
-### 📊 Minage
+### 📦 Visualiseur de Box
 
-Estimez vos revenus en fonction de la mine sélectionnée, votre fortune et les boosts actifs :
+- Affichage complet des **box** disponibles sur le serveur
+- Visualisation des items avec enchantements et effets spéciaux
+- Indication pour les items **"Ne se perd pas à la mort"**
+- Interface scrollable, fluide et propre
 
-```java
-blocValue = mineValue * (fortune + 1) * boostMultiplier;
-```
+### 👤 Visualiseur Items Personnalisés
 
-### 💰 Affichage
+- Tous les **items customs** dans un onglet dédié
+- Affichage des noms stylisés, descriptions et effets visuels
 
-Affichage automatique des gains selon 4 intervalles :
+### 🔍 Barre de Recherche Intelligente
 
-- **$/bloc**
-- **$/30s**
-- **$/15min**
-- **$/heure**
+- Recherche d’un item dans **toutes les box et items perso**
+- Affichage immédiat des résultats sous les boutons
+- Clique sur un item → ouverture directe de sa box
 
-### 📈 Prestiges
+### 📊 Outils d'Aide au Jeu
 
-Calculez le coût total entre deux niveaux de prestige jusqu'au niveau **P125**,  
-avec un affichage détaillé en version **raccourcie** et **complète**.
+- Calculateur de **minage** selon boosts et fortune
+- Estimations de revenus :
 
-### 📜 Commandes Utiles
+  - Par bloc
+  - Par 30s
+  - Par 15min
+  - Par heure
 
-Une section scrollable contenant toutes les commandes essentielles du serveur :
+- Calculateur de **prestige** jusqu’au niveau P125
+- Estimation de coût total en version compacte ou complète
 
-- îles
-- gangs
-- économie
-- profil
-- hôtel de vente
-- raccourcis pratiques
+### 📜 Commandes Utiles & Astuces
 
-### 💡 Astuces
+- Accès rapide aux commandes importantes :
+  - îles, gangs, hdv, economy...
+- Page scrollable d’**astuces** pour bien progresser :
+  - Où farmer
+  - Quels boosts utiliser
+  - Comment optimiser ton temps
 
-Une page dédiée aux conseils pour :
+---
 
-- gagner plus d’argent
-- profiter des boosts
-- utiliser les PNJ efficacement
-- améliorer votre productivité
+## 🛠️ Installation
 
-### 🚀 Installation
+- Version compatible : **Minecraft 1.8.9 + Forge**
+- Télécharge le `.jar` depuis [les releases](https://github.com/Summxx/skyofskill/releases)
+- Place-le dans ton dossier `mods`
 
-Ce mod est compatible **Minecraft 1.8.9 Forge**.  
-📁 Téléchargez le fichier `.jar` et placez-le dans votre dossier `mods`.
+---
 
-### 🙏 Remerciements
+## 💬 Remerciements
 
-Ce mod est largement inspiré du travail de **[FireDroX](https://github.com/FireDroX/skyofskill)**.  
-Un grand merci pour sa base technique et sa vision communautaire. 🔥
+Merci à **[FireDroX](https://github.com/FireDroX/skyofskill)** pour la base technique de départ.  
+Ce projet a été conçu avec passion pour la communauté SkyOfSkill. ❤️
 
-### 📎 Liens Utiles
+---
 
-- 🔗 [Site officiel de SkyOfSkill](https://skyofskill.fr/)
-- 🛠️ [Site original par FireDroX](https://firedrox.github.io/skyofskill/)
-- 📦 [Télécharger SOSModUtils](https://github.com/Summxx/skyofskill/releases)
+## 🔗 Liens
 
-<p align="right">(<a href="#readme-top">Retour en haut</a>)</p>
+- 🌐 [Site officiel SkyOfSkill](https://skyofskill.fr/)
+- ⚒️ [Site de FireDroX](https://firedrox.github.io/skyofskill/)
+- 📥 [Télécharger SOSModUtils](https://github.com/Summxx/skyofskill/releases)
+
+<p align="right">(<a href="#readme-top">🔝 Retour en haut</a>)</p>
