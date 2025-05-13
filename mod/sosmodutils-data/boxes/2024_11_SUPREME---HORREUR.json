@@ -5,128 +5,84 @@
       "name": "Arc de la Plateforme",
       "defaultName": "§r§2§ki§r§4§ki§r§2☩§r§4☧§r§2☩§r§4§ki§r§2§ki§r§2§l A§r§4§lr§r§2§lc§r§4§l d§r§2§le§r§4§l l§r§2§la§r§4§l P§r§2§ll§r§4§la§r§2§lt§r§4§le§r§2§lf§r§4§lo§r§2§lr§r§4§lm§r§2§le §r§2§ki§r§4§ki§r§2☩§r§4☧§r§2☩§r§4§ki§r§2§ki",
       "type": 6,
-      "enchants": [
-        "Punch III",
-        "Solidité 10",
-        "Infinity I"
-      ],
+      "enchants": ["Punch III", "Solidité 10", "Infinity I"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Vendredi 13",
       "defaultName": "§r§4§kt§r§8§kt§r§c!§r§4⚠§r§c!§r§8§kt§r§4§kt§r§8§l V§r§4§le§r§c§ln§r§8§ld§r§4§lr§r§c§le§r§8§ld§r§4§li §r§c§l1§r§8§l3 §r§4§kt§r§8§kt§r§c!§r§4⚠§r§c!§r§8§kt§r§4§kt",
       "type": 0,
-      "enchants": [
-        "Protection 88",
-        "Solidité 88"
-      ],
+      "enchants": ["Protection 88", "Solidité 88"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Vendredi 13",
       "defaultName": "§r§4§kt§r§8§kt§r§c!§r§4⚠§r§c!§r§8§kt§r§4§kt§r§8§l V§r§4§le§r§c§ln§r§8§ld§r§4§lr§r§c§le§r§8§ld§r§4§li §r§c§l1§r§8§l3 §r§4§kt§r§8§kt§r§c!§r§4⚠§r§c!§r§8§kt§r§4§kt",
       "type": 1,
-      "enchants": [
-        "Protection 88",
-        "Solidité 88"
-      ],
+      "enchants": ["Protection 88", "Solidité 88"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Vendredi 13",
       "defaultName": "§r§4§kt§r§8§kt§r§c!§r§4⚠§r§c!§r§8§kt§r§4§kt§r§8§l V§r§4§le§r§c§ln§r§8§ld§r§4§lr§r§c§le§r§8§ld§r§4§li §r§c§l1§r§8§l3 §r§4§kt§r§8§kt§r§c!§r§4⚠§r§c!§r§8§kt§r§4§kt",
       "type": 2,
-      "enchants": [
-        "Protection 88",
-        "Solidité 88"
-      ],
+      "enchants": ["Protection 88", "Solidité 88"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Vendredi 13",
       "defaultName": "§r§4§kt§r§8§kt§r§c!§r§4⚠§r§c!§r§8§kt§r§4§kt§r§8§l V§r§4§le§r§c§ln§r§8§ld§r§4§lr§r§c§le§r§8§ld§r§4§li §r§c§l1§r§8§l3 §r§4§kt§r§8§kt§r§c!§r§4⚠§r§c!§r§8§kt§r§4§kt",
       "type": 3,
-      "enchants": [
-        "Protection 88",
-        "Solidité 88"
-      ],
+      "enchants": ["Protection 88", "Solidité 88"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Vendredi 13",
       "defaultName": "§r§4§kt§r§8§kt§r§c!§r§4⚠§r§c!§r§8§kt§r§4§kt§r§8§l V§r§4§le§r§c§ln§r§8§ld§r§4§lr§r§c§le§r§8§ld§r§4§li §r§c§l1§r§8§l3 §r§4§kt§r§8§kt§r§c!§r§4⚠§r§c!§r§8§kt§r§4§kt",
       "type": 4,
-      "enchants": [
-        "Tranchant 87",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ],
+      "enchants": ["Tranchant 87", "Solidité 10", "Aura de Feu 10"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Vendredi 13",
       "defaultName": "§r§4§kt§r§8§kt§r§c!§r§4⚠§r§c!§r§8§kt§r§4§kt§r§8§l V§r§4§le§r§c§ln§r§8§ld§r§4§lr§r§c§le§r§8§ld§r§4§li §r§c§l1§r§8§l3 §r§4§kt§r§8§kt§r§c!§r§4⚠§r§c!§r§8§kt§r§4§kt",
       "type": 7,
-      "enchants": [
-        "Efficency 3300",
-        "Solidité 3300",
-        "Fortune 3300"
-      ],
+      "enchants": ["Efficency 3300", "Solidité 3300", "Fortune 3300"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Machette de la Plateforme",
       "defaultName": "§r§2§ki§r§4§ki§r§2☩§r§4☧§r§2☩§r§4§ki§r§2§ki§r§4§l M§r§2§la§r§4§lc§r§2§lh§r§4§le§r§2§lt§r§4§lt§r§2§le§r§4§l d§r§2§le§r§4§l l§r§2§la§r§4§l P§r§2§ll§r§4§la§r§2§lt§r§4§le§r§2§lf§r§4§lo§r§2§lr§r§4§lm§r§2§le §r§2§ki§r§4§ki§r§2☩§r§4☧§r§2☩§r§4§ki§r§2§ki",
       "type": 5,
-      "enchants": [
-        "Tranchant 94",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ],
+      "enchants": ["Tranchant 94", "Solidité 10", "Aura de Feu 10"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Tireur d'âmes",
       "defaultName": "§r§f§ki§r§d⊹§r§5✡§r§d⊹§r§f§ki§r§5§l T§r§d§li§r§f§lr§r§5§le§r§d§lu§r§f§lr§r§5§l d§r§d§l'â§r§f§lm§r§5§le§r§d§ls §r§f§ki§r§d⊹§r§5✡§r§d⊹§r§f§ki",
       "type": 6,
-      "enchants": [
-        "Punch IV",
-        "Solidité 10",
-        "Infinity I"
-      ],
+      "enchants": ["Punch IV", "Solidité 10", "Infinity I"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Pioche Du Clown",
       "defaultName": "§r§7§ki§r§f§l§ki§r§b☠§r§f§l§ki§r§7§ki§r§b §l P§r§f§li§r§7§lo§r§b§lc§r§f§lh§l§r§7§le §r§b§lD§r§f§l§r§7§l§r§b§lu §r§f§lC§r§7§ll§r§b§lo§r§f§lw§r§7§ln §r§7§ki§r§f§l§ki§r§b☠§r§f§l§ki§r§7§ki",
       "type": 7,
-      "enchants": [
-        "Efficency 3500",
-        "Solidité 3500",
-        "Fortune 3500"
-      ],
+      "enchants": ["Efficency 3500", "Solidité 3500", "Fortune 3500"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Démembreuse Humaine",
       "defaultName": "§r§8§l§kI§r§f§k§lI§r§c✝§r§4✞§r§c✝§r§8§l§kI§r§f§k§lI§r§r §r§4§lD§r§c§lé§r§8§lm§r§f§le§r§4§lm§r§c§lb§r§8§lr§r§f§le§r§4§lu§r§c§ls§r§8§le §r§f§lH§r§4§lu§r§c§lm§r§8§la§r§f§li§r§4§ln§r§c§le §r§8§l§kI§r§f§k§lI§r§c✝§r§4✞§r§c✝§r§8§l§kI§r§f§k§lI§r§r",
       "type": 4,
-      "enchants": [
-        "Tranchant 98",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ],
+      "enchants": ["Tranchant 98", "Solidité 10", "Aura de Feu 10"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Perceuse de la Nonne",
       "defaultName": "§r§7§kt§r§f§kt§r§8✝§r§f❤§r§8✝§r§f§kt§r§7§kt§r§f§l P§r§8§le§r§7§lr§r§f§lc§r§8§le§r§7§lu§r§f§ls§r§8§le§r§7§l d§r§f§le§r§8§l l§r§7§la§r§f§l N§r§8§lo§r§7§ln§r§f§ln§r§8§le §r§7§kt§r§f§kt§r§8✝§r§f❤§r§8✝§r§f§kt§r§7§kt",
       "type": 7,
-      "enchants": [
-        "Efficency 3800",
-        "Solidité 3800",
-        "Fortune 3800"
-      ],
+      "enchants": ["Efficency 3800", "Solidité 3800", "Fortune 3800"],
       "dontLeaveOnDeath": false
     },
     {
@@ -136,7 +92,8 @@
       "enchants": [
         "Punch VI",
         "Solidité 10",
-        "Infinity I"
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
       ],
       "dontLeaveOnDeath": true
     },
@@ -144,11 +101,7 @@
       "name": "Foreuse de l'Exorciste",
       "defaultName": "§r§8§ki§r§8§ki§r§5☥§r§4✝§r§c✠§r§4✝§r§5☥§r§8§ki§r§8§ki§r§r §r§4§lF§r§c§lo§r§8§lr§r§5§le§r§4§lu§r§c§ls§r§8§le§r§5§l d§r§4§le§r§c§l l§r§8§l'E§r§5§lx§r§4§lo§r§c§lr§r§8§lc§r§5§li§r§4§ls§r§c§lt§r§8§le §r§8§ki§r§8§ki§r§5☥§r§4✝§r§c✠§r§4✝§r§5☥§r§8§ki§r§8§ki§r§r",
       "type": 7,
-      "enchants": [
-        "Efficency 4000",
-        "Solidité 4000",
-        "Fortune 4000"
-      ],
+      "enchants": ["Efficency 4000", "Solidité 4000", "Fortune 4000"],
       "dontLeaveOnDeath": false
     },
     {
@@ -158,7 +111,8 @@
       "enchants": [
         "Punch VII",
         "Solidité 10",
-        "Infinity I"
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
       ],
       "dontLeaveOnDeath": true
     }

@@ -5,108 +5,68 @@
       "name": "Paille en Or",
       "defaultName": "§r§f§kt§r§6✯§r§f§kt§r§d§l §r§e§lPaille §r§f§len§r§e§l Or §r§f§kt§r§6✯§r§f§kt§r§d§l",
       "type": 4,
-      "enchants": [
-        "Tranchant 45",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ]
+      "enchants": ["Tranchant 45", "Solidité 10", "Aura de Feu 10"]
     },
     {
       "name": "Bouteille de Champagne",
       "defaultName": "§r§6§l§kt§r§e§ktt§r§b✯§r§e§ktt§r§6§l§kt§r§6§l B§r§e§louteille §r§6§lde C§r§e§lhampagne §r§6§l§kt§r§e§ktt§r§b✯§r§e§ktt§r§6§l§kt§r§6§l",
       "type": 4,
-      "enchants": [
-        "Tranchant 50",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ]
+      "enchants": ["Tranchant 50", "Solidité 10", "Aura de Feu 10"]
     },
     {
       "name": "Pioche de 2023",
       "defaultName": "§r§a§l§ki§r§f§kt§r§a✯§r§f§kt§r§a§l§kt§r§a§l P§r§f§li§r§a§lo§r§f§lc§r§a§lh§r§f§le §r§a§ld§r§f§le §r§a§l2023 §r§a§l§ki§r§f§kt§r§a✯§r§f§kt§r§a§l§kt§r§a§l",
       "type": 7,
-      "enchants": [
-        "Efficency 150",
-        "Solidité 50",
-        "Fortune 350"
-      ]
+      "enchants": ["Efficency 150", "Solidité 50", "Fortune 350"]
     },
     {
       "name": "Aspirateur à Cadeaux",
       "defaultName": "§r§f◘§r§d§kt§r§5§kt§r§d​❤§r§5§kt§r§d§kt§r§f◘§r§5§l §r§5§lA§r§d§ls§r§5§lp§r§d§li§r§5§lr§r§d§la§r§5§lt§r§d§le§r§5§lu§r§d§lr§r§5§l à §r§d§lC§r§5§la§r§d§ld§r§5§le§r§d§la§r§5§lu§r§d§lx §r§f◘§r§d§kt§r§5§kt§r§d​❤§r§5§kt§r§d§kt§r§f◘§r§5§l",
       "type": 7,
-      "enchants": [
-        "Efficency 150",
-        "Solidité 100",
-        "Fortune 450"
-      ]
+      "enchants": ["Efficency 150", "Solidité 100", "Fortune 450"]
     },
     {
-      "defaultName": "",
+      "defaultName": "???",
       "type": 7,
-      "enchants": [
-        "Efficency ???",
-        "Solidité ???",
-        "Fortune ???"
-      ],
+      "enchants": ["Efficency ???", "Solidité ???", "Fortune ???"],
       "name": "???"
     },
     {
       "name": "Perceuse d'étoiles",
       "defaultName": "§r§6§kt§r§f§kt§r§e✮§r§f§kt§r§6§kt§r§6§l P§r§e§le§r§6§lr§r§e§lc§r§6§le§r§e§lu§r§6§ls§r§e§le §r§6§ld§r§e'§r§6§lé§r§e§lt§r§6§lo§r§e§li§r§6§ll§r§e§le§r§6§ls §r§6§kt§r§f§kt§r§e✮§r§f§kt§r§6§kt§r§6§l",
       "type": 7,
-      "enchants": [
-        "Efficency 500",
-        "Solidité 100",
-        "Fortune 500"
-      ],
+      "enchants": ["Efficency 500", "Solidité 100", "Fortune 500"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Tenue de Soirée",
       "defaultName": "§r§f§kt§r§5✯§r§f§kt§r§d§l T§r§f§lenue §r§d§lde S§r§f§loirée §r§f§kt§r§5✯§r§f§kt§r§d§l",
       "type": 0,
-      "enchants": [
-        "Protection 45",
-        "Solidité 45"
-      ]
+      "enchants": ["Protection 45", "Solidité 45"]
     },
     {
       "name": "Tenue de Soirée",
       "defaultName": "§r§f§kt§r§5✯§r§f§kt§r§d§l T§r§f§lenue §r§d§lde S§r§f§loirée §r§f§kt§r§5✯§r§f§kt§r§d§l",
       "type": 1,
-      "enchants": [
-        "Protection 45",
-        "Solidité 45"
-      ]
+      "enchants": ["Protection 45", "Solidité 45"]
     },
     {
       "name": "Tenue de Soirée",
       "defaultName": "§r§f§kt§r§5✯§r§f§kt§r§d§l T§r§f§lenue §r§d§lde S§r§f§loirée §r§f§kt§r§5✯§r§f§kt§r§d§l",
       "type": 2,
-      "enchants": [
-        "Protection 45",
-        "Solidité 45"
-      ]
+      "enchants": ["Protection 45", "Solidité 45"]
     },
     {
       "name": "Tenue de Soirée",
       "defaultName": "§r§f§kt§r§5✯§r§f§kt§r§d§l T§r§f§lenue §r§d§lde S§r§f§loirée §r§f§kt§r§5✯§r§f§kt§r§d§l",
       "type": 3,
-      "enchants": [
-        "Protection 45",
-        "Solidité 45"
-      ]
+      "enchants": ["Protection 45", "Solidité 45"]
     },
     {
       "name": "La Hache de 2023",
       "defaultName": "§r§9§l§kt§r§3§kt§r§b§kt§r§f✯§r§b§kt§r§3§kt§r§9§l§kt§r§9§l L§r§3§la §r§b§lH§r§9§la§r§3§lc§r§b§lh§r§9§le §r§b§ld§r§3§le §r§9§l2§r§3§l0§r§b§l2§r§9§l3 §r§9§l§kt§r§3§kt§r§b§kt§r§f✯§r§b§kt§r§3§kt§r§9§l§kt§r§9§l",
       "type": 5,
-      "enchants": [
-        "Tranchant 50",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ]
+      "enchants": ["Tranchant 50", "Solidité 10", "Aura de Feu 10"]
     }
   ]
 }

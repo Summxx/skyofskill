@@ -89,7 +89,12 @@
       "name": "Traineau Mère Noël",
       "defaultName": "§r§8§ki§r§5☄§r§d❤§r§5☄§r§8§ki§r§d §l T§r§5§lr§r§d§la§r§8§li§r§5§ln§r§8§le§r§d§la§r§5§lu§r§d§l M§r§8§lè§r§5§lr§r§8§le§r§d§l N§r§5§lo§r§d§lë§r§8§ll §r§8§ki§r§5☄§r§d❤§r§5☄§r§8§ki",
       "type": 6,
-      "enchants": ["Punch VI", "Solidité 10", "Infinity I"],
+      "enchants": [
+        "Punch VI",
+        "Solidité 10",
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
+      ],
       "dontLeaveOnDeath": true
     },
     {
@@ -103,7 +108,12 @@
       "name": "Traineau du Père Fouettard",
       "defaultName": "§r§4§ki§r§c☄§r§e✩§r§c☄§r§4§ki§r§4 §l T§r§c§lr§r§e§la§r§4§li§r§c§ln§r§e§le§r§4§la§r§c§lu§r§e§l d§r§4§lu§r§c§l P§r§e§lè§r§4§lr§r§c§le§r§e§l F§r§4§lo§r§c§lu§r§e§le§r§4§lt§r§c§lt§r§e§la§r§4§lr§r§c§ld §r§4§ki§r§c☄§r§e✩§r§c☄§r§4§ki",
       "type": 6,
-      "enchants": ["Punch VII", "Solidité 10", "Infinity I"],
+      "enchants": [
+        "Punch VII",
+        "Solidité 10",
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
+      ],
       "dontLeaveOnDeath": true
     },
     {

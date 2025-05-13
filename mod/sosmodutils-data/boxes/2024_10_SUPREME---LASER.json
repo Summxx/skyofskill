@@ -5,117 +5,77 @@
       "name": "Pistolet Kylo Ren",
       "defaultName": "§r§4§kt§r§c§kt§r§4⚔§r§c⚙§r§4⚔§r§c§kt§r§4§kt§r§4§l P§r§c§li§r§4§ls§r§c§lt§r§4§lo§r§c§ll§r§4§le§r§c§lt §r§4§lK§r§c§ly§r§4§ll§r§c§lo§r§4§l R§r§c§le§r§4§ln §r§4§kt§r§c§kt§r§4⚔§r§c⚙§r§4⚔§r§c§kt§r§4§kt",
       "type": 6,
-      "enchants": [
-        "Punch III",
-        "Solidité 10",
-        "Infinity I"
-      ],
+      "enchants": ["Punch III", "Solidité 10", "Infinity I"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Armure Kylo Ren",
       "defaultName": "§r§4§kt§r§c§kt§r§4⚔§r§c⚙§r§4⚔§r§c§kt§r§4§kt§r§4§l A§r§c§lr§r§4§lm§r§c§lu§r§4§lr§r§c§le §r§4§lK§r§c§ly§r§4§ll§r§c§lo§r§4§l R§r§c§le§r§4§ln §r§4§kt§r§c§kt§r§4⚔§r§c⚙§r§4⚔§r§c§kt§r§4§kt",
       "type": 0,
-      "enchants": [
-        "Protection 86",
-        "Solidité 86"
-      ],
+      "enchants": ["Protection 86", "Solidité 86"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Armure Kylo Ren",
       "defaultName": "§r§4§kt§r§c§kt§r§4⚔§r§c⚙§r§4⚔§r§c§kt§r§4§kt§r§4§l A§r§c§lr§r§4§lm§r§c§lu§r§4§lr§r§c§le §r§4§lK§r§c§ly§r§4§ll§r§c§lo§r§4§l R§r§c§le§r§4§ln §r§4§kt§r§c§kt§r§4⚔§r§c⚙§r§4⚔§r§c§kt§r§4§kt",
       "type": 1,
-      "enchants": [
-        "Protection 86",
-        "Solidité 86"
-      ],
+      "enchants": ["Protection 86", "Solidité 86"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Armure Kylo Ren",
       "defaultName": "§r§4§kt§r§c§kt§r§4⚔§r§c⚙§r§4⚔§r§c§kt§r§4§kt§r§4§l A§r§c§lr§r§4§lm§r§c§lu§r§4§lr§r§c§le §r§4§lK§r§c§ly§r§4§ll§r§c§lo§r§4§l R§r§c§le§r§4§ln §r§4§kt§r§c§kt§r§4⚔§r§c⚙§r§4⚔§r§c§kt§r§4§kt",
       "type": 2,
-      "enchants": [
-        "Protection 86",
-        "Solidité 86"
-      ],
+      "enchants": ["Protection 86", "Solidité 86"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Armure Kylo Ren",
       "defaultName": "§r§4§kt§r§c§kt§r§4⚔§r§c⚙§r§4⚔§r§c§kt§r§4§kt§r§4§l A§r§c§lr§r§4§lm§r§c§lu§r§4§lr§r§c§le §r§4§lK§r§c§ly§r§4§ll§r§c§lo§r§4§l R§r§c§le§r§4§ln §r§4§kt§r§c§kt§r§4⚔§r§c⚙§r§4⚔§r§c§kt§r§4§kt",
       "type": 3,
-      "enchants": [
-        "Protection 86",
-        "Solidité 86"
-      ],
+      "enchants": ["Protection 86", "Solidité 86"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Lame Droide",
       "defaultName": "§r§9§kt§r§7§kt§r§9↪§r§7!§r§9↩§r§7§kt§r§9§kt§r§7§l L§r§9§la§r§7§mm§r§9§le§r§7§l D§r§9§lr§r§7§lo§r§9§lï§r§7§ld§r§9§le §r§9§kt§r§7§kt§r§9↪§r§7!§r§9↩§r§7§kt§r§9§kt§r§9§l",
       "type": 4,
-      "enchants": [
-        "Tranchant 85",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ],
+      "enchants": ["Tranchant 85", "Solidité 10", "Aura de Feu 10"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Foreuse Droide",
       "defaultName": "§r§9§kt§r§7§kt§r§9↪§r§7!§r§9↩§r§7§kt§r§9§kt§r§9§l F§r§7§lo§r§9§lr§r§7§le§r§9§lu§r§7§ls§r§9§le§r§7§l D§r§9§lr§r§7§lo§r§9§lï§r§7§ld§r§9§le §r§9§kt§r§7§kt§r§9↪§r§7!§r§9↩§r§7§kt§r§9§kt§r§9§l",
       "type": 7,
-      "enchants": [
-        "Efficency 3050",
-        "Solidité 3050",
-        "Fortune 3050"
-      ],
+      "enchants": ["Efficency 3050", "Solidité 3050", "Fortune 3050"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Hachette de Chewbacca",
       "defaultName": "§r§d§ki§r§5§ki§r§d▪§r§5◼§r§d㊙§r§5◼§r§d▪§r§5§ki§r§d§ki§r§5§l H§r§d§la§r§5§lc§r§d§lh§r§5§le§r§d§lt§r§5§lt§r§d§le§r§5§l d§r§d§le§r§5§l C§r§d§lh§r§5§le§r§d§lw§r§5§lb§r§d§la§r§5§lc§r§d§lc§r§5§la §r§d§ki§r§5§ki§r§d▪§r§5◼§r§d㊙§r§5◼§r§d▪§r§5§ki§r§d§ki",
       "type": 5,
-      "enchants": [
-        "Tranchant 92",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ],
+      "enchants": ["Tranchant 92", "Solidité 10", "Aura de Feu 10"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Pistolet Sableur Leia",
       "defaultName": "§r§7§ki§r§e⊹§r§6⌖§r§e⊹§r§6⌖§r§e⊹§r§7§ki§r§6§l P§r§e§li§r§7§ls§r§6§lt§r§e§lo§r§7§ll§r§6§le§r§e§lt§r§7§l S§r§6§la§r§e§lb§r§f§ll§r§6§le§r§e§lu§r§7§lr§r§6§l L§r§e§le§r§7§li§r§6§la §r§7§ki§r§e⊹§r§6⌖§r§e⊹§r§6⌖§r§e⊹§r§7§ki",
       "type": 6,
-      "enchants": [
-        "Punch IV",
-        "Solidité 10",
-        "Infinity I"
-      ],
+      "enchants": ["Punch IV", "Solidité 10", "Infinity I"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Perforateur Alderaan",
       "defaultName": "§r§a§kt§r§7§kt§r§a§l❞§r§b❄§r§a❞§r§7§kt§r§a§kt§r§b§l P§r§7§le§r§a§lr§r§7§lf§r§b§lo§r§7§lr§r§a§la§r§7§lt§r§b§le§r§7§lu§r§a§lr§r§7§l A§r§b§ll§r§7§ld§r§a§le§r§7§lr§r§b§la§r§7§la§r§a§ln §r§a§kt§r§7§kt§r§a§l❞§r§b❄§r§a❞§r§7§kt§r§a§kt",
       "type": 7,
-      "enchants": [
-        "Efficency 3250",
-        "Solidité 3250",
-        "Fortune 3250"
-      ],
+      "enchants": ["Efficency 3250", "Solidité 3250", "Fortune 3250"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Broyeur Palpatine",
       "defaultName": "§r§8§ki§r§8§ki§r§4✞§r§4⚔§r§4✞§r§8§ki§r§8§ki§r§4§l B§r§8§lr§r§4§lo§r§8§ly§r§4§le§r§8§lu§r§4§lr§r§8§l P§r§4§la§r§8§ll§r§4§lp§r§8§la§r§4§lt§r§8§li§r§4§ln§r§8§le §r§8§ki§r§8§ki§r§4✞§r§4⚔§r§4✞§r§8§ki§r§8§ki",
       "type": 4,
-      "enchants": [
-        "Tranchant 96",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ],
+      "enchants": ["Tranchant 96", "Solidité 10", "Aura de Feu 10"],
       "dontLeaveOnDeath": false
     },
     {
@@ -125,7 +85,8 @@
       "enchants": [
         "Punch V",
         "Solidité 10",
-        "Infinity I"
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
       ],
       "dontLeaveOnDeath": true
     },
@@ -133,11 +94,7 @@
       "name": "Foreuse Supersonique",
       "defaultName": "§r§e§kt§r§f§kt§r§b§l✦§r§e⚛§r§b✦§r§f§kt§r§e§kt§r§e§l F§r§b§lo§r§f§lr§r§e§le§r§b§lu§r§f§ls§r§e§le§r§b§l S§r§f§lu§r§e§lp§r§b§le§r§f§lr§r§e§ls§r§b§lo§r§f§ln§r§e§li§r§b§lq§r§f§lu§r§e§le §r§e§kt§r§f§kt§r§b§l✦§r§e⚛§r§b✦§r§f§kt§r§e§kt§r§e§l",
       "type": 7,
-      "enchants": [
-        "Efficency 3550",
-        "Solidité 3550",
-        "Fortune 3550"
-      ],
+      "enchants": ["Efficency 3550", "Solidité 3550", "Fortune 3550"],
       "dontLeaveOnDeath": false
     },
     {
@@ -147,7 +104,8 @@
       "enchants": [
         "Punch VI",
         "Solidité 10",
-        "Infinity I"
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
       ],
       "dontLeaveOnDeath": true
     },
@@ -172,7 +130,8 @@
       "enchants": [
         "Punch VII",
         "Solidité 10",
-        "Infinity I"
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
       ],
       "dontLeaveOnDeath": true
     }

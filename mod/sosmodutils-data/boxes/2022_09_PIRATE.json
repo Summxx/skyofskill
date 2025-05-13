@@ -5,107 +5,67 @@
       "name": "Dague de Pirate",
       "defaultName": "§r§4§l§kt§r§c§kt§r§7§kt§r§8⚔§r§7§kt§r§c§kt§r§4§l§kt§r§4§l D§r§c§la§r§7§lg§r§8§lu§r§4§le§r§c§l d§r§7§le§r§8§l P§r§4§li§r§c§lr§r§7§la§r§8§lt§r§4§le §r§4§l§kt§r§c§kt§r§7§kt§r§8⚔§r§7§kt§r§c§kt§r§4§l§kt§r§4§l",
       "type": 4,
-      "enchants": [
-        "Tranchant 39",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ]
+      "enchants": ["Tranchant 39", "Solidité 10", "Aura de Feu 10"]
     },
     {
       "name": "Lame du Capitaine",
       "defaultName": "§5§kt§r§d§kt§r§d§kt§r§b§l​⚔§r§d§kt§r§d§kt§r§5§kt§r§5§l La§r§d§lme §r§5§ldu §r§d§lCa§r§5§lpi§r§d§lta§r§5§lin§r§d§le §r§5§kt§r§d§kt§r§d§kt§r§b§l​⚔§r§d§kt§r§d§kt§r§5§kt§r",
       "type": 4,
-      "enchants": [
-        "Tranchant 42",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ]
+      "enchants": ["Tranchant 42", "Solidité 10", "Aura de Feu 10"]
     },
     {
       "name": "Pioche Sombre",
       "defaultName": "§r§4§l§kt§r§c§kt§r§7§kt§r§8⚔§r§7§kt§r§c§kt§r§4§l§kt§r§4§l P§r§c§li§r§7§lo§r§8§lc§r§4§lh§r§c§le §r§7§lS§r§8§lo§r§4§lm§r§c§lb§r§7§lr§r§8§le §r§4§l§kt§r§c§kt§r§7§kt§r§8⚔§r§7§kt§r§c§kt§r§4§l§kt§r§4§l",
       "type": 7,
-      "enchants": [
-        "Efficency 150",
-        "Solidité 50",
-        "Fortune 180"
-      ],
+      "enchants": ["Efficency 150", "Solidité 50", "Fortune 180"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Pioche Pistolet",
       "defaultName": "§9§kt§r§3§kt§r§b§kt§r§f§l​⚔§r§b§kt§r§3§kt§r§9§kt§r§9§l P§r§3§li§r§b§lo§r§f§lc§r§9§lh§r§3§le§r§b§l P§r§f§li§r§9§ls§r§3§lt§r§b§lo§r§f§ll§r§9§le§r§3§lt §r§9§kt§r§3§kt§r§b§kt§r§f§l​⚔§r§b§kt§r§3§kt§r§9§kt§r",
       "type": 7,
-      "enchants": [
-        "Efficency 150",
-        "Solidité 100",
-        "Fortune 225"
-      ]
+      "enchants": ["Efficency 150", "Solidité 100", "Fortune 225"]
     },
     {
       "name": "Détecteur d'Or",
       "defaultName": "§r§6§l§kt§r§e§kt§r§b§kt§r§e​⚔§r§b§kt§r§e§kt§r§6§l§kt§r§6§l D§r§e§lé§r§6§lt§r§e§le§r§6§lc§r§e§lt§r§6§le§r§e§lu§r§6§lr §r§e§ld§r§6'§r§e§lO§r§6§lr §r§6§l§kt§r§e§kt§r§b§kt§r§e​⚔§r§b§kt§r§e§kt§r§6§l§kt§r§6§l",
       "type": 7,
-      "enchants": [
-        "Efficency 250",
-        "Solidité 100",
-        "Fortune 300"
-      ]
+      "enchants": ["Efficency 250", "Solidité 100", "Fortune 300"]
     },
     {
       "name": "Massue du Capitaine",
       "defaultName": "§1§kt§r§9§kt§r§3§kt§r§b§kt§r§d§l​⚔§r§b§kt§r§3§kt§r§9§kt§r§1§kt§r§1§l M§r§9§la§r§3§ls§r§b§ls§r§1§lu§r§9§le §r§3§ld§r§b§lu §r§1§lC§r§9§la§r§3§lp§r§b§li§r§1§lt§r§9§la§r§3§li§r§b§ln§r§1§le §r§1§kt§r§9§kt§r§3§kt§r§b§kt§r§d§l​⚔§r§b§kt§r§3§kt§r§9§kt§r§1§kt§r",
       "type": 7,
-      "enchants": [
-        "Efficency 300",
-        "Solidité 100",
-        "Fortune 350"
-      ]
+      "enchants": ["Efficency 300", "Solidité 100", "Fortune 350"]
     },
     {
       "name": "Bandana de Pirate",
       "defaultName": "§r§4§l§kt§r§c§kt§r§7§kt§r§8​⚔§r§7§kt§r§c§kt§r§4§l§kt§r§4§l B§r§c§la§r§7§ln§r§8§ld§r§4§la§r§c§ln§r§7§la §r§8§ld§r§4§le §r§c§lP§r§7§li§r§8§lr§r§4§la§r§c§lt§r§7§le §r§4§l§kt§r§c§kt§r§7§kt§r§8​⚔§r§7§kt§r§c§kt§r§4§l§kt§r§4§l",
       "type": 0,
-      "enchants": [
-        "Protection 37",
-        "Solidité 37"
-      ]
+      "enchants": ["Protection 37", "Solidité 37"]
     },
     {
       "name": "Plastron Drapeau",
       "defaultName": "§r§4§l§kt§r§c§kt§r§7§kt§r§8​⚔§r§7§kt§r§c§kt§r§4§l§kt§r§4§l P§r§c§ll§r§7§la§r§8§ls§r§4§lt§r§c§lr§r§7§lo§r§8§ln §r§4§lD§r§c§lr§r§7§la§r§8§lp§r§4§le§r§c§la§r§7§lu §r§4§l§kt§r§c§kt§r§7§kt§r§8​⚔§r§7§kt§r§c§kt§r§4§l§kt§r§4§l",
       "type": 1,
-      "enchants": [
-        "Protection 37",
-        "Solidité 37"
-      ]
+      "enchants": ["Protection 37", "Solidité 37"]
     },
     {
-      "defaultName": "",
+      "defaultName": "Pantalon de Pirate",
       "type": 2,
-      "enchants": [
-        "Protection 37",
-        "Solidité 37"
-      ],
+      "enchants": ["Protection 37", "Solidité 37"],
       "name": "Pantalon de Pirate"
     },
     {
       "name": "Piraterie",
       "defaultName": "§r§4§l§kt§r§c§kt§r§7§kt§r§8​⚔§r§7§kt§r§c§kt§r§4§l§kt§r§4§l P§r§c§li§r§7§lr§r§8§la§r§4§lt§r§c§le§r§7§lr§r§8§li§r§4§le §r§4§l§kt§r§c§kt§r§7§kt§r§8​⚔§r§7§kt§r§c§kt§r§4§l§kt§r§4§l",
       "type": 3,
-      "enchants": [
-        "Protection 37",
-        "Solidité 37"
-      ]
+      "enchants": ["Protection 37", "Solidité 37"]
     },
     {
-      "defaultName": "",
+      "defaultName": "???",
       "type": 5,
-      "enchants": [
-        "Tranchant ??",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ],
+      "enchants": ["Tranchant ??", "Solidité 10", "Aura de Feu 10"],
       "name": "???"
     }
   ]

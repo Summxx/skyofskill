@@ -5,108 +5,68 @@
       "name": "Lame d'Arès",
       "defaultName": "§r§e§kt§r§6​⚔§r§e§kt§r§6§l §r§6§lL§r§e§la§r§6§lm§r§e§le §r§6§ld§r§e§l'§r§6§lA§r§e§lr§r§6§lè§r§e§ls §r§e§kt§r§6​⚔§r§e§kt§r§6§l",
       "type": 4,
-      "enchants": [
-        "Tranchant 50",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ]
+      "enchants": ["Tranchant 50", "Solidité 10", "Aura de Feu 10"]
     },
     {
       "name": "Katana d'Athéna",
       "defaultName": "§r§c§ktt§r§4​⚔§r§c§ktt§r§4§l §r§4§lK§r§c§la§r§4§lt§r§c§la§r§4§ln§r§c§la §r§4§ld§r§c§l'§r§4§lA§r§c§lt§r§4§lh§r§c§lé§r§4§ln§r§c§la §r§c§ktt§r§4​⚔§r§c§ktt§r§4§l",
       "type": 4,
-      "enchants": [
-        "Tranchant 56",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ]
+      "enchants": ["Tranchant 56", "Solidité 10", "Aura de Feu 10"]
     },
     {
       "name": "Perforatrice Ultime",
       "defaultName": "§r§6§l§ki§r§e§kt§r§f✯§r§e§kt§r§6§l§kt§r §r§6§l §nP§r§e§l§nerforatrice§r §r§6 §l§nU§r§e§l§nltime§r §r§6 §l§ki§r§e§kt§r§f✯§r§e§kt§r§6§l§kt§r§6§l",
       "type": 7,
-      "enchants": [
-        "Efficency 400",
-        "Solidité 400",
-        "Fortune 475"
-      ]
+      "enchants": ["Efficency 400", "Solidité 400", "Fortune 475"]
     },
     {
-      "defaultName": "",
+      "defaultName": "???",
       "type": 7,
-      "enchants": [
-        "Efficency ???",
-        "Solidité ???",
-        "Fortune ???"
-      ],
+      "enchants": ["Efficency ???", "Solidité ???", "Fortune ???"],
       "name": "???"
     },
     {
       "name": "Perforateur Divin",
       "defaultName": "§r§1§l§kt§r§3§kt§r§b§kt§r§f✯§r§b§kt§r§3§kt§r§1§l§kt§r§1§l P§r§3§le§r§b§lr§r§f§lf§r§1§lo§r§3§lr§r§b§la§r§f§lt§r§1§le§r§9§lu§r§3§lr§r§b§l D§r§1§li§r§3§lv§r§b§li§r§f§ln §r§1§l§kt§r§3§kt§r§b§kt§r§f✯§r§b§kt§r§3§kt§r§1§l§kt§r§1§l",
       "type": 7,
-      "enchants": [
-        "Efficency 525",
-        "Solidité 525",
-        "Fortune 525"
-      ]
+      "enchants": ["Efficency 525", "Solidité 525", "Fortune 525"]
     },
     {
       "name": "Foreuse d'Hades",
       "defaultName": "§r§c§kt§r§fϟ§r§4☣§r§fϟ§r§c§kt§r§4§l F§r§c§lo§r§f§lr§r§4§le§r§c§lu§r§f§ls§r§4§le§r§c§l d§r§f§l'§r§4§lH§r§c§la§r§f§ld§r§4§le§r§c§ls §r§c§kt§r§fϟ§r§4☣§r§fϟ§r§c§kt§r§4§l",
       "type": 7,
-      "enchants": [
-        "Efficency 625",
-        "Solidité 625",
-        "Fortune 625"
-      ],
+      "enchants": ["Efficency 625", "Solidité 625", "Fortune 625"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Armure d'Arès",
       "defaultName": "§r§e§kt§r§6​⚔§r§e§kt§r§6§l §r§6§lA§r§e§lr§r§6§lm§r§e§lu§r§6§lr§r§e§le §r§6§ld§r§e§l'§r§6§lA§r§e§lr§r§6§lè§r§e§ls §r§e§kt§r§6​⚔§r§e§kt§r§6§l",
       "type": 0,
-      "enchants": [
-        "Protection 50",
-        "Solidité 50"
-      ]
+      "enchants": ["Protection 50", "Solidité 50"]
     },
     {
       "name": "Armure d'Arès",
       "defaultName": "§r§e§kt§r§6​⚔§r§e§kt§r§6§l §r§6§lA§r§e§lr§r§6§lm§r§e§lu§r§6§lr§r§e§le §r§6§ld§r§e§l'§r§6§lA§r§e§lr§r§6§lè§r§e§ls §r§e§kt§r§6​⚔§r§e§kt§r§6§l",
       "type": 1,
-      "enchants": [
-        "Protection 50",
-        "Solidité 50"
-      ]
+      "enchants": ["Protection 50", "Solidité 50"]
     },
     {
       "name": "Armure d'Arès",
       "defaultName": "§r§e§kt§r§6​⚔§r§e§kt§r§6§l §r§6§lA§r§e§lr§r§6§lm§r§e§lu§r§6§lr§r§e§le §r§6§ld§r§e§l'§r§6§lA§r§e§lr§r§6§lè§r§e§ls §r§e§kt§r§6​⚔§r§e§kt§r§6§l",
       "type": 2,
-      "enchants": [
-        "Protection 50",
-        "Solidité 50"
-      ]
+      "enchants": ["Protection 50", "Solidité 50"]
     },
     {
       "name": "Armure d'Arès",
       "defaultName": "§r§e§kt§r§6​⚔§r§e§kt§r§6§l §r§6§lA§r§e§lr§r§6§lm§r§e§lu§r§6§lr§r§e§le §r§6§ld§r§e§l'§r§6§lA§r§e§lr§r§6§lè§r§e§ls §r§e§kt§r§6​⚔§r§e§kt§r§6§l",
       "type": 3,
-      "enchants": [
-        "Protection 50",
-        "Solidité 50"
-      ]
+      "enchants": ["Protection 50", "Solidité 50"]
     },
     {
       "name": "Braquemart d'Athéna",
       "defaultName": "§r§a§kt§r§d§kt§r§5​⚔§r§d§kt§r§a§kt§r§5§l B§r§d§lr§r§a§la§r§5§lq§r§d§lu§r§a§le§r§5§lm§r§d§la§r§a§lr§r§5§lt§r§d§l d§r§a'§r§5§lA§r§d§lt§r§a§lh§r§5§lé§r§d§ln§r§a§la §r§a§kt§r§d§kt§r§5​⚔§r§d§kt§r§a§kt§r§5§l",
       "type": 5,
-      "enchants": [
-        "Tranchant 55",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ]
+      "enchants": ["Tranchant 55", "Solidité 10", "Aura de Feu 10"]
     }
   ]
 }

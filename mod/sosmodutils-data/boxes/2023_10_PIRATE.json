@@ -5,40 +5,34 @@
       "name": "Pirate",
       "defaultName": "§r§f§ki§r§7*§r§8​⚔§r§7*§r§f§ki§r§4§l §r§8§lP§r§7§li§r§f§lr§r§8§la§r§7§lt§r§f§le §r§f§ki§r§7*§r§8​⚔§r§7*§r§f§ki",
       "type": 6,
-      "enchants": [
-        "Punch III",
-        "Solidité 10",
-        "Infinity I"
-      ]
+      "enchants": ["Punch III", "Solidité 10", "Infinity I"]
     },
     {
       "name": "Flingue du Bandit",
       "defaultName": "§r§d§ki§r§7❈§r§8☫§r§7❈§r§d§ki§r§a §r§d§lF§r§8§ll§r§7§li§r§d§ln§r§8§lg§r§7§lu§r§d§le§r§8§l d§r§7§lu§r§d§l B§r§8§la§r§7§ln§r§d§ld§r§8§li§r§7§lt §r§d§ki§r§7❈§r§8☫§r§7❈§r§d§ki",
       "type": 6,
-      "enchants": [
-        "Punch IV",
-        "Solidité 10",
-        "Infinity I"
-      ]
+      "enchants": ["Punch IV", "Solidité 10", "Infinity I"]
     },
     {
-      "defaultName": "",
+      "defaultName": "???",
       "type": 6,
       "enchants": [
         "Punch IV",
         "Solidité 10",
-        "Infinity I"
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
       ],
       "dontLeaveOnDeath": true,
       "name": "???"
     },
     {
-      "defaultName": "",
+      "defaultName": "Winchester",
       "type": 6,
       "enchants": [
         "Punch V",
         "Solidité 10",
-        "Infinity I"
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
       ],
       "dontLeaveOnDeath": true,
       "name": "WINCHESTER"
@@ -47,99 +41,63 @@
       "name": "Pirate",
       "defaultName": "§r§f§ki§r§7*§r§8⚔§r§7*§r§f§ki§r§4§l §r§8§lP§r§7§li§r§f§lr§r§8§la§r§7§lt§r§f§le §r§f§ki§r§7*§r§8⚔§r§7*§r§f§ki",
       "type": 4,
-      "enchants": [
-        "Tranchant 67",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ],
+      "enchants": ["Tranchant 67", "Solidité 10", "Aura de Feu 10"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Sabre du Fantôme",
       "defaultName": "§r§f§ki§r§7§ki§r§8*§r§b⚖§r§8*§r§7§ki§r§f§ki§r§8§l §r§b§lS§r§8§la§r§7§lb§r§b§lr§r§8§le §r§7§ld§r§b§lu§r§8§l F§r§7§la§r§b§ln§r§8§lt§r§7§lô§r§b§lm§r§8§le §r§f§ki§r§7§ki§r§8*§r§b⚖§r§8*§r§7§ki§r§f§ki",
       "type": 4,
-      "enchants": [
-        "Tranchant 75",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ],
+      "enchants": ["Tranchant 75", "Solidité 10", "Aura de Feu 10"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Scie du Cambrioleur",
       "defaultName": "§r§f§ki§r§9​↕§r§f​⚠§r§9​↕§r§f§ki§r§6§l §r§9§lS§r§f§lc§r§9§li§r§f§le§r§9§l d§r§f§lu§r§9§l C§r§f§la§r§9§lm§r§f§lb§r§9§lr§r§f§li§r§9§lo§r§f§ll§r§9§le§r§f§lu§r§9§lr §r§f§ki§r§9​↕§r§f​⚠§r§9​↕§r§f§ki§r§6§l",
       "type": 7,
-      "enchants": [
-        "Efficency 950",
-        "Solidité 950",
-        "Fortune 950"
-      ]
+      "enchants": ["Efficency 950", "Solidité 950", "Fortune 950"]
     },
     {
-      "defaultName": "",
+      "defaultName": "???",
       "type": 7,
-      "enchants": [
-        "Efficency ????",
-        "Solidité ????",
-        "Fortune ????"
-      ],
+      "enchants": ["Efficency ????", "Solidité ????", "Fortune ????"],
       "name": "???"
     },
     {
       "name": "Foreuse Thermique",
       "defaultName": "§r§8§ki§r§f✩§r§7☫§r§f✩§r§8§ki§r§4§l §r§8§lF§r§7§lo§r§f§lr§r§8§le§r§7§lu§r§f§ls§r§8§le§r§7§l T§r§f§lh§r§8§le§r§7§lr§r§f§lm§r§8§li§r§7§lq§r§f§lu§r§8§le §r§8§ki§r§f✩§r§7☫§r§f✩§r§8§ki§r§4§l",
       "type": 7,
-      "enchants": [
-        "Efficency 1350",
-        "Solidité 1350",
-        "Fortune 1350"
-      ]
+      "enchants": ["Efficency 1350", "Solidité 1350", "Fortune 1350"]
     },
     {
       "name": "Pirate",
       "defaultName": "§r§f§ki§r§7*§r§8​⚔§r§7*§r§f§ki§r§4§l §r§8§lP§r§7§li§r§f§lr§r§8§la§r§7§lt§r§f§le §r§f§ki§r§7*§r§8​⚔§r§7*§r§f§ki",
       "type": 0,
-      "enchants": [
-        "Protection 67",
-        "Solidité 67"
-      ]
+      "enchants": ["Protection 67", "Solidité 67"]
     },
     {
       "name": "Pirate",
       "defaultName": "§r§f§ki§r§7*§r§8​⚔§r§7*§r§f§ki§r§4§l §r§8§lP§r§7§li§r§f§lr§r§8§la§r§7§lt§r§f§le §r§f§ki§r§7*§r§8​⚔§r§7*§r§f§ki",
       "type": 1,
-      "enchants": [
-        "Protection 67",
-        "Solidité 67"
-      ]
+      "enchants": ["Protection 67", "Solidité 67"]
     },
     {
       "name": "Pirate",
       "defaultName": "§r§f§ki§r§7*§r§8​⚔§r§7*§r§f§ki§r§4§l §r§8§lP§r§7§li§r§f§lr§r§8§la§r§7§lt§r§f§le §r§f§ki§r§7*§r§8​⚔§r§7*§r§f§ki",
       "type": 2,
-      "enchants": [
-        "Protection 67",
-        "Solidité 67"
-      ]
+      "enchants": ["Protection 67", "Solidité 67"]
     },
     {
       "name": "Pirate",
       "defaultName": "§r§f§ki§r§7*§r§8​⚔§r§7*§r§f§ki§r§4§l §r§8§lP§r§7§li§r§f§lr§r§8§la§r§7§lt§r§f§le §r§f§ki§r§7*§r§8​⚔§r§7*§r§f§ki",
       "type": 3,
-      "enchants": [
-        "Protection 67",
-        "Solidité 67"
-      ]
+      "enchants": ["Protection 67", "Solidité 67"]
     },
     {
       "name": "Couteau de Toxique",
       "defaultName": "§r§f§ki§r§a§ki§r§2⚗§r§a⚛§r§2⚗§r§a§ki§r§f§ki§r§8§l §r§2§lC§r§a§lo§r§2§lu§r§a§lt§r§2§le§r§a§la§r§2§lu§r§a§l d§r§2§le §r§a§lT§r§2§lo§r§a§lx§r§2§li§r§a§lq§r§2§lu§r§a§le §r§f§ki§r§a§ki§r§2⚗§r§a⚛§r§2⚗§r§a§ki§r§f§ki",
       "type": 5,
-      "enchants": [
-        "Tranchant 72",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ],
+      "enchants": ["Tranchant 72", "Solidité 10", "Aura de Feu 10"],
       "dontLeaveOnDeath": false
     }
   ]

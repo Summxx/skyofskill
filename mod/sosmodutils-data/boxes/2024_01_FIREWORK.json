@@ -5,21 +5,13 @@
       "name": "Arc FireWork",
       "defaultName": "§f§kt§r§e§kt§r§f☉§r§e​☄§r§f☉§r§e§kt§r§f§kt§r§e§l A§r§f§lr§r§e§lc §r§f§lF§r§e§li§r§f§lr§r§e§le§r§f§lW§r§e§lo§r§f§lr§r§e§lk §r§f§kt§r§e§kt§r§f☉§r§e​☄§r§f☉§r§e§kt§r§f§kt§r",
       "type": 6,
-      "enchants": [
-        "Punch III",
-        "Solidité 10",
-        "Infinity I"
-      ]
+      "enchants": ["Punch III", "Solidité 10", "Infinity I"]
     },
     {
       "name": "Arc des Célébrations",
       "defaultName": "§r§d§ki§r§f§ki§r§dϟ§r§f✩§r§dϟ§r§f§ki§r§d§ki§r§8§l §r§d§lA§r§f§lr§r§d§lc§r§f§l d§r§d§le§r§f§ls§r§d§l C§r§f§lé§r§d§ll§r§f§lé§r§d§lb§r§f§lr§r§d§la§r§f§lt§r§d§li§r§f§lo§r§d§ln§r§f§ls §r§d§ki§r§f§ki§r§dϟ§r§f✩§r§dϟ§r§f§ki§r§d§ki",
       "type": 6,
-      "enchants": [
-        "Punch IV",
-        "Solidité 10",
-        "Infinity I"
-      ]
+      "enchants": ["Punch IV", "Solidité 10", "Infinity I"]
     },
     {
       "name": "Canon à Confettis",
@@ -28,28 +20,31 @@
       "enchants": [
         "Punch IV",
         "Solidité 10",
-        "Infinity I"
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
       ],
       "dontLeaveOnDeath": true
     },
     {
-      "defaultName": "",
+      "defaultName": "???",
       "type": 6,
       "enchants": [
         "Punch V",
         "Solidité 10",
-        "Infinity I"
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
       ],
       "dontLeaveOnDeath": true,
       "name": "???"
     },
     {
-      "defaultName": "",
+      "defaultName": "???",
       "type": 6,
       "enchants": [
         "Punch VI",
         "Solidité 10",
-        "Infinity I"
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
       ],
       "dontLeaveOnDeath": true,
       "name": "???"
@@ -58,98 +53,62 @@
       "name": "Schlass FireWork",
       "defaultName": "§f§kt§r§e§kt§r§f☉§r§e​☄§r§f☉§r§e§kt§r§f§kt§r§e§l S§r§f§lc§r§e§lh§r§f§ll§r§e§la§r§f§ls§r§e§ls§r§f§l F§r§e§li§r§f§lr§r§e§le§r§f§lW§r§e§lo§r§f§lr§r§e§lk §r§f§kt§r§e§kt§r§f☉§r§e​☄§r§f☉§r§e§kt§r§f§kt§r",
       "type": 4,
-      "enchants": [
-        "Tranchant 73",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ]
+      "enchants": ["Tranchant 73", "Solidité 10", "Aura de Feu 10"]
     },
     {
-      "defaultName": "",
+      "defaultName": "???",
       "type": 4,
-      "enchants": [
-        "Tranchant ??",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ],
+      "enchants": ["Tranchant ??", "Solidité 10", "Aura de Feu 10"],
       "name": "???"
     },
     {
       "name": "Foreuse FireWork",
       "defaultName": "§f§kt§r§e§kt§r§f☉§r§e​☄§r§f☉§r§e§kt§r§f§kt§r§e§l F§r§f§lo§r§e§lr§r§f§le§r§e§lu§r§f§ls§r§e§le§r§f§l F§r§e§li§r§f§lr§r§e§le§r§f§lW§r§e§lo§r§f§lr§r§e§lk §r§f§kt§r§e§kt§r§f☉§r§e​☄§r§f☉§r§e§kt§r§f§kt§r",
       "type": 7,
-      "enchants": [
-        "Efficency 1400",
-        "Solidité 1400",
-        "Fortune 1400"
-      ]
+      "enchants": ["Efficency 1400", "Solidité 1400", "Fortune 1400"]
     },
     {
       "name": "Foreuse Champagne",
       "defaultName": "§c§kt§r§f§kt§r§c✩§r§f§kt§r§c§kt§r§c§l F§r§f§lo§r§c§lr§r§f§le§r§c§lu§r§f§ls§r§c§le §r§f§lC§r§c§lh§r§f§la§r§c§lm§r§f§lp§r§c§la§r§f§lg§r§c§ln§r§f§le §r§c§kt§r§f§kt§r§c✩§r§f§kt§r§c§kt§r",
       "type": 7,
-      "enchants": [
-        "Efficency 1650",
-        "Solidité 1650",
-        "Fortune 1650"
-      ]
+      "enchants": ["Efficency 1650", "Solidité 1650", "Fortune 1650"]
     },
     {
       "name": "Baguette de la Fortune",
       "defaultName": "§r§b§ki§r§f*§r§b❄§r§f*§r§b§ki§r§4§l §r§b§lB§r§f§la§r§b§lg§r§f§lu§r§b§le§r§f§lt§r§b§lt§r§f§le §r§b§ld§r§f§le §r§b§ll§r§f§la§r§b§l F§r§f§lo§r§b§lr§r§f§lt§r§b§lu§r§f§ln§r§b§le §r§b§ki§r§f*§r§b❄§r§f*§r§b§ki",
       "type": 7,
-      "enchants": [
-        "Efficency 1800",
-        "Solidité 1800",
-        "Fortune 1800"
-      ],
+      "enchants": ["Efficency 1800", "Solidité 1800", "Fortune 1800"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Armure FireWork",
       "defaultName": "§f§kt§r§e§kt§r§f☉§r§e​☄§r§f☉§r§e§kt§r§f§kt§r§f§l A§r§e§lr§r§f§lm§r§e§lu§r§f§lr§r§e§le§r§f§l F§r§e§li§r§f§lr§r§e§le§r§f§lW§r§e§lo§r§f§lr§r§e§lk §r§f§kt§r§e§kt§r§f☉§r§e​☄§r§f☉§r§e§kt§r§f§kt§r",
       "type": 0,
-      "enchants": [
-        "Protection 73",
-        "Solidité 73"
-      ]
+      "enchants": ["Protection 73", "Solidité 73"]
     },
     {
       "name": "Armure FireWork",
       "defaultName": "§f§kt§r§e§kt§r§f☉§r§e​☄§r§f☉§r§e§kt§r§f§kt§r§f§l A§r§e§lr§r§f§lm§r§e§lu§r§f§lr§r§e§le§r§f§l F§r§e§li§r§f§lr§r§e§le§r§f§lW§r§e§lo§r§f§lr§r§e§lk §r§f§kt§r§e§kt§r§f☉§r§e​☄§r§f☉§r§e§kt§r§f§kt§r",
       "type": 1,
-      "enchants": [
-        "Protection 73",
-        "Solidité 73"
-      ]
+      "enchants": ["Protection 73", "Solidité 73"]
     },
     {
       "name": "Armure FireWork",
       "defaultName": "§f§kt§r§e§kt§r§f☉§r§e​☄§r§f☉§r§e§kt§r§f§kt§r§f§l A§r§e§lr§r§f§lm§r§e§lu§r§f§lr§r§e§le§r§f§l F§r§e§li§r§f§lr§r§e§le§r§f§lW§r§e§lo§r§f§lr§r§e§lk §r§f§kt§r§e§kt§r§f☉§r§e​☄§r§f☉§r§e§kt§r§f§kt§r",
       "type": 2,
-      "enchants": [
-        "Protection 73",
-        "Solidité 73"
-      ]
+      "enchants": ["Protection 73", "Solidité 73"]
     },
     {
       "name": "Armure FireWork",
       "defaultName": "§f§kt§r§e§kt§r§f☉§r§e​☄§r§f☉§r§e§kt§r§f§kt§r§f§l A§r§e§lr§r§f§lm§r§e§lu§r§f§lr§r§e§le§r§f§l F§r§e§li§r§f§lr§r§e§le§r§f§lW§r§e§lo§r§f§lr§r§e§lk §r§f§kt§r§e§kt§r§f☉§r§e​☄§r§f☉§r§e§kt§r§f§kt§r",
       "type": 3,
-      "enchants": [
-        "Protection 73",
-        "Solidité 73"
-      ]
+      "enchants": ["Protection 73", "Solidité 73"]
     },
     {
       "name": "Sceptre des Célébrations",
       "defaultName": "§r§d§ki§r§f§ki§r§dϟ§r§f✩§r§dϟ§r§f§ki§r§d§ki§r§8§l §r§d§lS§r§f§lc§r§d§le§r§f§lp§r§d§lt§r§f§lr§r§d§le§r§f§l d§r§d§le§r§f§ls§r§d§l C§r§f§lé§r§d§ll§r§f§lé§r§d§lb§r§f§lr§r§d§la§r§f§lt§r§d§li§r§f§lo§r§d§ln§r§f§ls §r§d§ki§r§f§ki§r§dϟ§r§f✩§r§dϟ§r§f§ki§r§d§ki",
       "type": 5,
-      "enchants": [
-        "Tranchant 79",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ]
+      "enchants": ["Tranchant 79", "Solidité 10", "Aura de Feu 10"]
     }
   ]
 }

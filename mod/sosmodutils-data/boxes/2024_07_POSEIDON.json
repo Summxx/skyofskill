@@ -5,117 +5,77 @@
       "name": "Arc des algues",
       "defaultName": "§r§2§kii§r§a⌨§r§2⚗§r§a⌨§r§2§kii§r§2 §l A§r§a§lr§r§2§lc §r§a§ld§r§2§le§r§a§ls§r§2§l a§r§a§ll§r§2§lg§r§a§lu§r§2§le§r§a§ls §r§2§kii§r§a⌨§r§2⚗§r§a⌨§r§2§kii",
       "type": 6,
-      "enchants": [
-        "Punch III",
-        "Solidité 10",
-        "Infinity I"
-      ],
+      "enchants": ["Punch III", "Solidité 10", "Infinity I"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Armure de Poséidon",
       "defaultName": "§r§f§ki§r§e§ki§r§bϟ§r§e⚠§r§bϟ§r§e§ki§r§f§ki§r§e §l A§r§b§lr§r§e§lm§r§b§lu§r§e§lr§r§b§le§r§e§l d§r§b§le§r§e§l P§r§b§lo§r§e§ls§r§b§lé§r§e§li§r§b§ld§r§e§lo§r§b§ln §r§f§ki§r§e§ki§r§bϟ§r§e⚠§r§bϟ§r§e§ki§r§f§ki§r§e",
       "type": 0,
-      "enchants": [
-        "Protection 82",
-        "Solidité 82"
-      ],
+      "enchants": ["Protection 82", "Solidité 82"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Armure de Poséidon",
       "defaultName": "§r§f§ki§r§e§ki§r§bϟ§r§e⚠§r§bϟ§r§e§ki§r§f§ki§r§e §l A§r§b§lr§r§e§lm§r§b§lu§r§e§lr§r§b§le§r§e§l d§r§b§le§r§e§l P§r§b§lo§r§e§ls§r§b§lé§r§e§li§r§b§ld§r§e§lo§r§b§ln §r§f§ki§r§e§ki§r§bϟ§r§e⚠§r§bϟ§r§e§ki§r§f§ki§r§e",
       "type": 1,
-      "enchants": [
-        "Protection 82",
-        "Solidité 82"
-      ],
+      "enchants": ["Protection 82", "Solidité 82"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Armure de Poséidon",
       "defaultName": "§r§f§ki§r§e§ki§r§bϟ§r§e⚠§r§bϟ§r§e§ki§r§f§ki§r§e §l A§r§b§lr§r§e§lm§r§b§lu§r§e§lr§r§b§le§r§e§l d§r§b§le§r§e§l P§r§b§lo§r§e§ls§r§b§lé§r§e§li§r§b§ld§r§e§lo§r§b§ln §r§f§ki§r§e§ki§r§bϟ§r§e⚠§r§bϟ§r§e§ki§r§f§ki§r§e",
       "type": 2,
-      "enchants": [
-        "Protection 82",
-        "Solidité 82"
-      ],
+      "enchants": ["Protection 82", "Solidité 82"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Armure de Poséidon",
       "defaultName": "§r§f§ki§r§e§ki§r§bϟ§r§e⚠§r§bϟ§r§e§ki§r§f§ki§r§e §l A§r§b§lr§r§e§lm§r§b§lu§r§e§lr§r§b§le§r§e§l d§r§b§le§r§e§l P§r§b§lo§r§e§ls§r§b§lé§r§e§li§r§b§ld§r§e§lo§r§b§ln §r§f§ki§r§e§ki§r§bϟ§r§e⚠§r§bϟ§r§e§ki§r§f§ki§r§e",
       "type": 3,
-      "enchants": [
-        "Protection 82",
-        "Solidité 82"
-      ],
+      "enchants": ["Protection 82", "Solidité 82"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Sabre Méduse",
       "defaultName": "§r§d§kii§r§f§ki§r§d✒§r§f§ki§r§d§kii§r§d §l S§r§f§la§r§d§lb§r§f§lr§r§d§le§r§f§l M§r§d§lé§r§f§ld§r§d§lu§r§f§ls§r§d§le §r§d§kii§r§f§ki§r§d✒§r§f§ki§r§d§kii",
       "type": 4,
-      "enchants": [
-        "Tranchant 82",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ],
+      "enchants": ["Tranchant 82", "Solidité 10", "Aura de Feu 10"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Trésor Marin",
       "defaultName": "§r§e§ki§r§6§ki§r§e⚝§r§6§ki§r§e§ki§r§e§l T§r§6§lr§r§e§lé§r§6§ls§r§e§lo§r§6§lr§r§e§l M§r§6§la§r§e§lr§r§6§li§r§e§ln §r§e§ki§r§6§ki§r§e⚝§r§6§ki§r§e§ki§r§e§l",
       "type": 7,
-      "enchants": [
-        "Efficency 2400",
-        "Solidité 2400",
-        "Fortune 2400"
-      ],
+      "enchants": ["Efficency 2400", "Solidité 2400", "Fortune 2400"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Fouet du Courant Marin",
       "defaultName": "§r§e§ki§r§6§ki§r§e‼§r§6Ⓜ§r§e‼§r§6§ki§r§e§ki§r§6 §l F§r§e§lo§r§6§lu§r§e§le§r§6§lt§r§e§l d§r§6§lu§r§e§l C§r§6§lo§r§e§lu§r§6§lr§r§e§la§r§6§ln§r§e§lt§r§6§l M§r§e§la§r§6§lr§r§e§li§r§6§ln §r§e§ki§r§6§ki§r§e‼§r§6Ⓜ§r§e‼§r§6§ki§r§e§ki",
       "type": 5,
-      "enchants": [
-        "Tranchant 89",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ],
+      "enchants": ["Tranchant 89", "Solidité 10", "Aura de Feu 10"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Lanceur de Méduses",
       "defaultName": "§r§d§ki§r§d★§r§f☄§r§d★§r§d§ki§r§d §r§d§lL§r§f§la§r§d§ln§r§f§lc§r§d§le§r§f§lu§r§d§lr§r§f§l d§r§d§le§r§f§l M§r§d§lé§r§f§ld§r§d§lu§r§f§ls§r§d§le§r§f§ls §r§d§ki§r§d★§r§f☄§r§d★§r§d§ki",
       "type": 6,
-      "enchants": [
-        "Punch IV",
-        "Solidité 10",
-        "Infinity I"
-      ],
+      "enchants": ["Punch IV", "Solidité 10", "Infinity I"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Sceptre de l'Atlantide",
       "defaultName": "§r§f§kii§r§b♗§r§8✹§r§b♗§r§f§kii§r§8 §r§8§lS§r§b§lc§r§8§le§r§b§lp§r§8§lt§r§b§lr§r§8§le§r§b§l d§r§8§le§r§b§l l§r§8'§r§b§lA§r§8§lt§r§b§ll§r§8§la§r§b§ln§r§8§lt§r§b§li§r§8§ld§r§b§le §r§f§kii§r§b♗§r§8✹§r§b♗§r§f§kii",
       "type": 7,
-      "enchants": [
-        "Efficency 2650",
-        "Solidité 2650",
-        "Fortune 2650"
-      ],
+      "enchants": ["Efficency 2650", "Solidité 2650", "Fortune 2650"],
       "dontLeaveOnDeath": false
     },
     {
       "name": "Trident de Poséidon",
       "defaultName": "§r§f§ki§r§e§ki§r§bϟ§r§e⚠§r§bϟ§r§e§ki§r§f§ki§r§e §l T§r§b§lr§r§e§li§r§b§ld§r§e§le§r§b§ln§r§e§lt §r§b§ld§r§e§le§r§b§l P§r§e§lo§r§b§ls§r§e§lé§r§b§li§r§e§ld§r§b§lo§r§e§ln §r§f§ki§r§e§ki§r§bϟ§r§e⚠§r§bϟ§r§e§ki§r§f§ki",
       "type": 4,
-      "enchants": [
-        "Tranchant 92",
-        "Solidité 10",
-        "Aura de Feu 10"
-      ],
+      "enchants": ["Tranchant 92", "Solidité 10", "Aura de Feu 10"],
       "dontLeaveOnDeath": false
     },
     {
@@ -125,7 +85,8 @@
       "enchants": [
         "Punch IV",
         "Solidité 10",
-        "Infinity I"
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
       ],
       "dontLeaveOnDeath": true
     },
@@ -133,11 +94,7 @@
       "name": "Foreuse du Kraken",
       "defaultName": "§r§8§kii§r§cꗃ§r§4⎈§r§cꗃ§r§8§kii§r§r §r§4§lF§r§c§lo§r§4§lr§r§c§le§r§4§lu§r§c§ls§r§4§le§r§c§l d§r§4§lu§r§c§l K§r§4§lr§r§c§la§r§4§lk§r§c§le§r§4§ln §r§8§kii§r§cꗃ§r§4⎈§r§cꗃ§r§8§kii§r§r",
       "type": 7,
-      "enchants": [
-        "Efficency 2800",
-        "Solidité 2800",
-        "Fortune 2800"
-      ],
+      "enchants": ["Efficency 2800", "Solidité 2800", "Fortune 2800"],
       "dontLeaveOnDeath": false
     },
     {
@@ -147,7 +104,8 @@
       "enchants": [
         "Punch V",
         "Solidité 10",
-        "Infinity I"
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
       ],
       "dontLeaveOnDeath": true
     },
@@ -155,11 +113,7 @@
       "name": "Sculpteur Poséidon",
       "defaultName": "§r§8§kii§r§eϟ§r§b⚙§r§eϟ§r§8§kii§r§r §r§8§lS§r§b§lc§r§8§lu§r§e§ll§r§8§lp§r§b§lt§r§8§le§r§e§lu§r§8§lr§r§b§l P§r§8§lo§r§e§ls§r§8§lé§r§b§li§r§8§ld§r§e§lo§r§8§ln §r§8§kii§r§eϟ§r§b⚙§r§eϟ§r§8§kii",
       "type": 7,
-      "enchants": [
-        "Efficency 3000",
-        "Solidité 3000",
-        "Fortune 3000"
-      ],
+      "enchants": ["Efficency 3000", "Solidité 3000", "Fortune 3000"],
       "dontLeaveOnDeath": false
     },
     {
@@ -169,7 +123,8 @@
       "enchants": [
         "Punch VII",
         "Solidité 10",
-        "Infinity I"
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
       ],
       "dontLeaveOnDeath": true
     }

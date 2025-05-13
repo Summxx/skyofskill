@@ -89,7 +89,12 @@
       "name": "Le Semeur",
       "defaultName": "§r§c§ki§r§e※§r§6❈§r§e※§r§c§ki§r§e §l L§r§6§le§r§c§l S§r§e§le§r§6§lm§r§c§le§r§e§lu§r§6§lr §r§c§ki§r§e※§r§6❈§r§e※§r§c§ki",
       "type": 6,
-      "enchants": ["Punch VI", "Solidité 10", "Infinity I"],
+      "enchants": [
+        "Punch VI",
+        "Solidité 10",
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
+      ],
       "dontLeaveOnDeath": true
     },
     {
@@ -103,7 +108,12 @@
       "name": "Nuit étoilée",
       "defaultName": "§r§8§kii§r§eᔐ§r§9☾§r§eᔑ§r§8§kii§r§9 §l N§r§e§lu§r§8§li§r§9§lt§r§e§l é§r§8§lt§r§9§lo§r§e§li§r§8§ll§r§9§lé§r§e§le §r§8§kii§r§eᔐ§r§9☾§r§eᔑ§r§8§kii",
       "type": 6,
-      "enchants": ["Punch VIII", "Solidité 10", "Infinity I"],
+      "enchants": [
+        "Punch VIII",
+        "Solidité 10",
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
+      ],
       "dontLeaveOnDeath": true
     },
     {

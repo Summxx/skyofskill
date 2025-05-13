@@ -82,7 +82,12 @@
       "name": "Frégate Médicale",
       "defaultName": "§r§5§kt§r§d§kt§r§f§kt§r§5§l*§r§d§l❤§r§5§l*§r§f§kt§r§d§kt§r§5§kt§r§d§l F§r§f§lr§r§5§lé§r§d§lg§r§f§la§r§5§lt§r§d§le §r§f§lM§r§5§lé§r§d§ld§r§f§li§r§5§lc§r§d§la§r§f§ll§r§5§le §r§5§kt§r§d§kt§r§f§kt§r§5§l*§r§d§l❤§r§5§l*§r§f§kt§r§d§kt§r§5§kt§r§r",
       "type": 6,
-      "enchants": ["Punch IV", "Solidité 10", "Infinity I"],
+      "enchants": [
+        "Punch IV",
+        "Solidité 10",
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
+      ],
       "dontLeaveOnDeath": true
     },
     {
@@ -96,7 +101,12 @@
       "name": "Etoile De la Mort",
       "defaultName": "§r§2§kt§r§8§kt§r§7§l*§r§2§l✰§r§7§l*§r§8§kt§r§2§kt§r§8§l E§r§7§lt§r§2§lo§r§8§li§r§7§ll§r§2§le §r§8§lD§r§7§le §r§2§ll§r§8§la §r§7§lM§r§2§lo§r§8§lr§r§7§lt §r§2§kt§r§8§kt§r§7§l*§r§2§l✰§r§7§l*§r§8§kt§r§2§kt§r§r",
       "type": 6,
-      "enchants": ["Punch V", "Solidité 10", "Infinity I"],
+      "enchants": [
+        "Punch V",
+        "Solidité 10",
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
+      ],
       "dontLeaveOnDeath": true
     },
     {
@@ -110,7 +120,12 @@
       "name": "Faucon Millenium",
       "defaultName": "§r§b§kt§r§7§kt§r§8§kt§r§3§l⁑§r§8§l✧§r§3§l⁑§r§8§kt§r§7§kt§r§b§kt§r§3§l F§r§b§la§r§7§lu§r§8§lc§r§3§lo§r§b§ln §r§7§lM§r§8§li§r§3§ll§r§b§ll§r§7§le§r§8§ln§r§3§li§r§b§lu§r§7§lm §r§b§kt§r§7§kt§r§8§kt§r§3§l⁑§r§8§l✧§r§3§l⁑§r§8§kt§r§7§kt§r§b§kt§r§r",
       "type": 6,
-      "enchants": ["Punch VII", "Solidité 10", "Infinity I"],
+      "enchants": [
+        "Punch VII",
+        "Solidité 10",
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
+      ],
       "dontLeaveOnDeath": true
     }
   ]

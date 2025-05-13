@@ -89,7 +89,12 @@
       "name": "Arc en Platine",
       "defaultName": "§r§f§ki§r§7꙳§r§3⭒§r§7꙳§r§f§ki§r§f §l  A§r§7§lr§r§3§lc§r§f§l e§r§7§ln§r§3§l P§r§f§ll§r§7§la§r§3§lt§r§f§li§r§7§ln§r§3§le §r§f§ki§r§7꙳§r§3⭒§r§7꙳§r§f§ki",
       "type": 6,
-      "enchants": ["Punch VI", "Solidité 10", "Infinity I"],
+      "enchants": [
+        "Punch VI",
+        "Solidité 10",
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
+      ],
       "dontLeaveOnDeath": true
     },
     {
@@ -103,7 +108,12 @@
       "name": "Arbalète en Rubis",
       "defaultName": "§r§c§ki§r§7§ki§r§4⌖§r§4✜§r§4⌖§r§7§ki§r§c§ki§r§c §l A§r§7§lr§r§4§lb§r§c§la§r§7§ll§r§4§lè§r§c§lt§r§7§le §r§4§le§r§c§ln§r§7§l R§r§4§lu§r§c§lb§r§7§li§r§4§ls §r§c§ki§r§7§ki§r§4⌖§r§4✜§r§4⌖§r§7§ki§r§c§ki",
       "type": 6,
-      "enchants": ["Punch VIII", "Solidité 10", "Infinity I"],
+      "enchants": [
+        "Punch VIII",
+        "Solidité 10",
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
+      ],
       "dontLeaveOnDeath": true
     },
     {
