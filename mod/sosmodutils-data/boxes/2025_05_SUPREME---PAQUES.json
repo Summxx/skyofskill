@@ -1,0 +1,134 @@
+{
+  "title": "2025-05 - SUPREME - PAQUES",
+  "items": [
+    {
+      "name": "iiϟ࿄ϟii Arbalète des Cloches iiϟ࿄ϟii",
+      "defaultName": "§e§ki§f§l§ki§eϟ§6࿄§eϟ§f§l§ki§e§ki§e §lAr§f§lbalè§e§lte §f§ldes §6§lCl§f§loch§6§les §e§ki§f§l§ki§eϟ§6࿄§eϟ§f§l§ki§e§ki§7",
+      "type": 6,
+      "enchants": ["Punch III", "Solidité 10", "Infinity I"],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "iϟ☁ϟi Armure en Marshmallow iϟ☁ϟi",
+      "defaultName": "§f§ki§dϟ§f☁§dϟ§f§ki§f §lA§d§lrmur§f§le en M§d§larshmallo§f§lw §f§ki§dϟ§f☁§dϟ§f§ki§7",
+      "type": 0,
+      "enchants": ["Protection 100", "Solidité 100"],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "iϟ☁ϟi Armure en Marshmallow iϟ☁ϟi",
+      "defaultName": "§f§ki§dϟ§f☁§dϟ§f§ki§f §lA§d§lrmur§f§le en M§d§larshmallo§f§lw §f§ki§dϟ§f☁§dϟ§f§ki§7",
+      "type": 1,
+      "enchants": ["Protection 100", "Solidité 100"],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "iϟ☁ϟi Armure en Marshmallow iϟ☁ϟi",
+      "defaultName": "§f§ki§dϟ§f☁§dϟ§f§ki§f §lA§d§lrmur§f§le en M§d§larshmallo§f§lw §f§ki§dϟ§f☁§dϟ§f§ki§7",
+      "type": 2,
+      "enchants": ["Protection 100", "Solidité 100"],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "iϟ☁ϟi Armure en Marshmallow iϟ☁ϟi",
+      "defaultName": "§f§ki§dϟ§f☁§dϟ§f§ki§f §lA§d§lrmur§f§le en M§d§larshmallo§f§lw §f§ki§dϟ§f☁§dϟ§f§ki§7",
+      "type": 3,
+      "enchants": ["Protection 100", "Solidité 100"],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "iϟ☁ϟi Sabre en Marshmallow iϟ☁ϟi",
+      "defaultName": "§f§ki§dϟ§f☁§dϟ§f§ki§f §lS§d§labr§f§le en M§d§larshmallo§f§lw §f§ki§dϟ§f☁§dϟ§f§ki§7",
+      "type": 4,
+      "enchants": ["Solidité 10", "Tranchant 99", "Aura de Feu 10"],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "ii߷ꗃ߷ii Pioche Fondante ii߷ꗃ߷ii",
+      "defaultName": "§f§kii§c߷§4ꗃ§c߷§f§kii§4 §lPi§c§loc§f§lhe§4§l Fo§c§lnd§f§lan§4§lte §f§kii§c߷§4ꗃ§c߷§f§kii§7",
+      "type": 7,
+      "enchants": ["Efficency 4750", "Solidité 4750", "Fortune 4750"],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "ii⊹♖⊹ii Hache à Carottes ii⊹♖⊹ii",
+      "defaultName": "§a§kii§6⊹§2♖§6⊹§a§kii§2 §lHa§6§lch§a§le à §lC§6§lar§2§lot§6§lte§a§ls §a§kii§6⊹§2♖§6⊹§a§kii§7",
+      "type": 5,
+      "enchants": ["Solidité 10", "Tranchant 106", "Aura de Feu 10"],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "ii⊹☘⊹ii Arc Lapin ii⊹☘⊹ii",
+      "defaultName": "§f§kii§e⊹§b☘§e⊹§f§kii§b §lA§e§lr§f§lc§e§l L§f§la§b§lp§e§li§f§ln §f§kii§e⊹§b☘§e⊹§f§kii§7",
+      "type": 6,
+      "enchants": ["Punch IV", "Solidité 10", "Infinity I"],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "iiϟ࿄ϟii Foreuse des Cloches iiϟ࿄ϟii",
+      "defaultName": "§e§ki§f§l§ki§eϟ§6࿄§eϟ§f§l§ki§e§ki§e §lFo§f§lreu§e§lse §e§ld§f§le§6§ls §6§lCl§f§loch§6§les §e§ki§f§l§ki§eϟ§6࿄§eϟ§f§l§ki§e§ki§7",
+      "type": 7,
+      "enchants": ["Efficency 5000", "Solidité 5000", "Fortune 5000"],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "ii߷ꗃ߷ii Sabre de la Chocolaterie ii߷ꗃ߷ii",
+      "defaultName": "§f§kii§c߷§4ꗃ§c߷§f§kii§4 §lSa§c§lbr§f§le d§4§le l§c§la C§f§lho§4§lco§c§lla§f§lte§4§lri§c§le §f§kii§c߷§4ꗃ§c߷§f§kii§7",
+      "type": 4,
+      "enchants": ["Solidité 10", "Tranchant 110", "Aura de Feu 10"],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "it∷♠∷ti Pioche Barbe à Papa",
+      "defaultName": "§7§ki§d§kt§7∷§d♠§7∷§d§kt§7§ki§d§l Pi§7§loc§d§lhe§7§l Ba§d§lrb§7§le à§d§l Pa§7§lpa§7",
+      "type": 7,
+      "enchants": ["Efficency 5300", "Solidité 5300", "Fortune 5300"],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "ii⊹♖⊹ii Fusil Lance-Carottes ii⊹♖⊹ii",
+      "defaultName": "§a§kii§6⊹§2♖§6⊹§a§kii§6 §lFu§a§lsi§6§ll L§2§lan§6§lce§a-§lC§6§lar§2§lot§6§lte§a§ls §a§kii§6⊹§2♖§6⊹§a§kii§7",
+      "type": 6,
+      "enchants": [
+        "Punch VI",
+        "Solidité 10",
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
+      ],
+      "dontLeaveOnDeath": true
+    },
+    {
+      "name": "ii⊹☘⊹ii Foreuse Lapin ii⊹☘⊹ii",
+      "defaultName": "§f§kii§e⊹§a☘§e⊹§f§kii§a §lF§e§lo§f§lr§a§le§e§lu§f§ls§a§le§e§l L§f§la§a§lp§e§li§f§ln §f§kii§e⊹§a☘§e⊹§f§kii§7",
+      "type": 7,
+      "enchants": ["Efficency 5600", "Solidité 5600", "Fortune 5600"],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "iϟ☁ϟi Pistolet à Marshmallow iϟ☁ϟi",
+      "defaultName": "§f§ki§dϟ§f☁§dϟ§f§ki§f §lP§d§listole§f§lt à M§d§larshmallo§f§lw §f§ki§dϟ§f☁§dϟ§f§ki§7",
+      "type": 6,
+      "enchants": [
+        "Punch VIII",
+        "Solidité 10",
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r"
+      ],
+      "dontLeaveOnDeath": true
+    },
+    {
+      "name": "ii☸☘☸ii Carotte Magique ii☸☘☸ii",
+      "defaultName": "§6§kii§e☸§d☘§e☸§6§kii§e §lC§6§la§d§lro§e§lt§6§lt§e§le §6§lM§d§lag§e§li§6§lq§e§lu§6§le §6§kii§e☸§d☘§e☸§6§kii§7",
+      "type": 7,
+      "enchants": ["Solidité 5600", "Fortune 5600"],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "iii☸❃☸iii Chupa Chups iii☸❃☸iii",
+      "defaultName": "§9§ki§e§kii§d☸§f❃§d☸§e§ki§9§kii§9 §lC§a§lh§6§lu§e§lp§d§la §f§lC§9§lh§a§lu§6§lp§e§ls §9§ki§e§kii§d☸§f❃§d☸§e§ki§9§kii§7",
+      "type": 7,
+      "enchants": ["Solidité 5900", "Fortune 5900"],
+      "dontLeaveOnDeath": false
+    }
+  ]
+}
