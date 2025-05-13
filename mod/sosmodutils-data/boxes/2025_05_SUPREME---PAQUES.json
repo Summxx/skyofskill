@@ -40,7 +40,7 @@
       "name": "iϟ☁ϟi Sabre en Marshmallow iϟ☁ϟi",
       "defaultName": "§f§ki§dϟ§f☁§dϟ§f§ki§f §lS§d§labr§f§le en M§d§larshmallo§f§lw §f§ki§dϟ§f☁§dϟ§f§ki§7",
       "type": 4,
-      "enchants": ["Solidité 10", "Tranchant 99", "Aura de Feu 10"],
+      "enchants": ["Tranchant 99", "Solidité 10", "Aura de Feu 10"],
       "dontLeaveOnDeath": false
     },
     {
@@ -54,7 +54,7 @@
       "name": "ii⊹♖⊹ii Hache à Carottes ii⊹♖⊹ii",
       "defaultName": "§a§kii§6⊹§2♖§6⊹§a§kii§2 §lHa§6§lch§a§le à §lC§6§lar§2§lot§6§lte§a§ls §a§kii§6⊹§2♖§6⊹§a§kii§7",
       "type": 5,
-      "enchants": ["Solidité 10", "Tranchant 106", "Aura de Feu 10"],
+      "enchants": ["Tranchant 106", "Solidité 10", "Aura de Feu 10"],
       "dontLeaveOnDeath": false
     },
     {
@@ -75,7 +75,7 @@
       "name": "ii߷ꗃ߷ii Sabre de la Chocolaterie ii߷ꗃ߷ii",
       "defaultName": "§f§kii§c߷§4ꗃ§c߷§f§kii§4 §lSa§c§lbr§f§le d§4§le l§c§la C§f§lho§4§lco§c§lla§f§lte§4§lri§c§le §f§kii§c߷§4ꗃ§c߷§f§kii§7",
       "type": 4,
-      "enchants": ["Solidité 10", "Tranchant 110", "Aura de Feu 10"],
+      "enchants": ["Tranchant 110", "Solidité 10", "Aura de Feu 10"],
       "dontLeaveOnDeath": false
     },
     {
@@ -120,14 +120,24 @@
       "name": "ii☸☘☸ii Carotte Magique ii☸☘☸ii",
       "defaultName": "§6§kii§e☸§d☘§e☸§6§kii§e §lC§6§la§d§lro§e§lt§6§lt§e§le §6§lM§d§lag§e§li§6§lq§e§lu§6§le §6§kii§e☸§d☘§e☸§6§kii§7",
       "type": 7,
-      "enchants": ["Solidité 5600", "Fortune 5600"],
+      "enchants": [
+        "Efficency 5600",
+        "Solidité 5600",
+        "Fortune 5600",
+        "▶ Achète 20,000 Tokens"
+      ],
       "dontLeaveOnDeath": false
     },
     {
       "name": "iii☸❃☸iii Chupa Chups iii☸❃☸iii",
       "defaultName": "§9§ki§e§kii§d☸§f❃§d☸§e§ki§9§kii§9 §lC§a§lh§6§lu§e§lp§d§la §f§lC§9§lh§a§lu§6§lp§e§ls §9§ki§e§kii§d☸§f❃§d☸§e§ki§9§kii§7",
       "type": 7,
-      "enchants": ["Solidité 5900", "Fortune 5900"],
+      "enchants": [
+        "Efficency 5900",
+        "Solidité 5900",
+        "Fortune 5900",
+        "▶ Achète 35,000 Tokens"
+      ],
       "dontLeaveOnDeath": false
     }
   ]
