@@ -1,0 +1,15 @@
+[
+  {
+    "name": "!⚡☁⚡! 天弓 !⚡☁⚡!",
+    "defaultName": "§f§l§k!§r§d§l⚡§f§l☁§d§l⚡§f§l§k!§r §d§l天§f§l弓 §f§l§k!§r§d§l⚡§f§l☁§d§l⚡§f§l§k!§r§7",
+    "type": 6,
+    "enchants": [
+      "Punch VIII",
+      "Solidité 10",
+      "Infinity I",
+      "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r",
+      "§c§k!§r§4§k!§r §8§l▶ Propriétaire : §4§nOBS07 §c§k!§r§4§k!§r"
+    ],
+    "dontLeaveOnDeath": false
+  }
+]
