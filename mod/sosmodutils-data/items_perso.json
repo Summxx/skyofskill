@@ -1,5 +1,4 @@
 {
-  "title": "2025-05 - SUPREME - PAQUES",
   "items": [
     {
       "name": "!⚡☁⚡! 天弓 !⚡☁⚡!",
@@ -10,7 +9,44 @@
         "Solidité 10",
         "Infinity I",
         "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r",
-        "§c§k!§r§4§k!§r §8§l▶ Propriétaire : §4§nOBS07 §c§k!§r§4§k!§r"
+        "§c§k!§r§4§k!§r §8§l▶ Propriétaire : §4§nOBS07§r §c§k!§r§4§k!§r"
+      ],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "BALAYEUR2GRANDMERE",
+      "defaultName": "§6§lB§2§lA§3§lL§5§lA§6§lY§2§lE§3§lU§5§lR§6§l2§2§lG§3§lR§5§lA§6§lN§2§lD§3§lM§5§lE§6§lR§2§lE§7",
+      "type": 6,
+      "enchants": [
+        "Punch VI",
+        "Solidité 10",
+        "Infinity I",
+        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r",
+        "§c§k!§r§4§k!§r §8§l▶ Propriétaire : §4§nOBS07§r §c§k!§r§4§k!§r"
+      ],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "|||♱✠♱||| L'Oeil de Sauron |||♱✠♱|||",
+      "defaultName": "§4§k|§7§k||§8♱§c✠§8♱§7§k||§4§k|§4§l L'§c§lO§7§le§8§li§4§ll§c§l d§7§le§8§l S§4§la§c§lu§7§lr§8§lo§4§ln§4 §k|§7§k||§8♱§c✠§8♱§7§k||§4§k|§r§7",
+      "type": 7,
+      "enchants": [
+        "Efficency 5500",
+        "Solidité 5500",
+        "Fortune 5500",
+        "§c§k!§r§4§k!§r §8§l▶ Propriétaire : §4§nOverRhity§r §c§k!§r§4§k!§r"
+      ],
+      "dontLeaveOnDeath": false
+    },
+    {
+      "name": "I WhyMeDaddy I",
+      "defaultName": "§d§kI §6§lWhyMe§0§lDaddy §d§kI§7",
+      "type": 4,
+      "enchants": [
+        "Solidité 10",
+        "Tranchant 84",
+        "Aura de Feu 10",
+        "§c§k!§r§4§k!§r §8§l▶ Propriétaire : §4§nOverRhity§r §c§k!§r§4§k!§r"
       ],
       "dontLeaveOnDeath": false
     }
