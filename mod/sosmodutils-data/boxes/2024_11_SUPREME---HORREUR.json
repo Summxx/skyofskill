@@ -93,7 +93,7 @@
         "Punch VI",
         "Solidité 10",
         "Infinity I",
-        "§8⚔ §fNe §ase perd pas §fà la mort."
+        "§f§l⚔ §fNe §ase perd pas §fà la mort."
       ],
       "dontLeaveOnDeath": true
     },
@@ -112,7 +112,7 @@
         "Punch VII",
         "Solidité 10",
         "Infinity I",
-        "§8⚔ §fNe §1se perd pas §fà la mort."
+        "§f§l⚔ §fNe §1se perd pas §fà la mort."
       ],
       "dontLeaveOnDeath": true
     }
