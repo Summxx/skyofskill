@@ -8,20 +8,20 @@
         "Punch VIII",
         "Solidité 10",
         "Infinity I",
-        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r",
+        "§8⚔ §f§lNe §d§lse perd pas §f§là la mort.",
         "§c§k!§r§4§k!§r §8§l▶ Propriétaire : §4§nOBS07§r §c§k!§r§4§k!§r"
       ],
       "dontLeaveOnDeath": false
     },
     {
-      "name": "BALAYEUR2GRANDMERE",
-      "defaultName": "§6§lB§2§lA§3§lL§5§lA§6§lY§2§lE§3§lU§5§lR§6§l2§2§lG§3§lR§5§lA§6§lN§2§lD§3§lM§5§lE§6§lR§2§lE§7",
+      "name": "Arbalète Céleste",
+      "defaultName": "§8§l§k!§r§6§l✧§8§l☁§6§l✧§8§l§k!§r §6§lセ§8§lレ§6§lス§8§lテ§6§lィ§8§lア§6§lル §8§lク§6§lロ§8§lス§6§lボ§8§lウ §8§l§k!§r§6§l✧§8§l☁§6§l✧§8§l§k!§r",
       "type": 6,
       "enchants": [
         "Punch VI",
         "Solidité 10",
         "Infinity I",
-        "§d§k!§r §f§lNe se perd pas à la mort ! §d§k!§r",
+        "§8⚔ §f§lNe §6§lse perd pas §f§là la mort.",
         "§c§k!§r§4§k!§r §8§l▶ Propriétaire : §4§nOBS07§r §c§k!§r§4§k!§r"
       ],
       "dontLeaveOnDeath": false
